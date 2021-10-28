@@ -259,7 +259,9 @@ Immersive/interactive components:
 
 ## Metadata Reflection Questions
 
-SOMETHING GOES HERE
+- Any questions or observations from this section of the lab
+- Ideas that spark for how aspects of this work could be useful for telling a story about ND football
+  * Or, aspects that might connect to some of the primary source materials we’ve been exploring 
 
 # Sample Digital Exhibit/Archive Projects
 
@@ -448,7 +450,9 @@ Metadata:
 
 ## Sample project discussion/reflection questions
 
-SOMETHING GOES HERE
+- Any questions or observations from this section of the lab
+- Ideas that spark for how aspects of this work could be useful for telling a story about ND football
+  * Or, aspects that might connect to some of the primary source materials we’ve been exploring 
 
 # Immersive or Interactive Digital Stories
 
