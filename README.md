@@ -140,15 +140,13 @@ Think about what types of information show up in the record for Sperber's book.
 
 Since the 1960s, machine readable cataloging (or MARC) records have been the back-bone for library interface and discovery systems.
 
-IMAGE OF CATALOG CARD
+![physical card from card catalog](https://github.com/kwaldenphd/football-exhibits/blob/main/images/card_catalog.jpg?raw=true)
 
 MARC records developed as a way of taking the information represented in a card catalog and moving it into a digital or computer-aided discovery environment.
 
-MARC RECORD IMAGE
+![MARC punch chard from University of Kansas Libraries](https://github.com/kwaldenphd/football-exhibits/blob/main/images/marc_punch.png?raw=true)
 
 While MARC records started as physical punch cards, in the last 30 years, MARC records that functioned as databases continue to evolve and transform via the internet.
-
-SPERBER MARC SCREENSHOT
 
 ```
 Leader 00000cam a2200445Ia 4500
@@ -231,7 +229,6 @@ Compare your experience navigating this interface and accessing materials to usi
 
 Those vastly different user experiences or ways of engaging/access materials are driven by two key components: technical infrastructure and metadata.
 
-
 Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites
 - Site text
 - Metadata
@@ -301,7 +298,7 @@ For a more detailed explanation of these fields: Omeka Classic User Manual, "[Wo
 
 For more on Dublin Core: http://dublincore.org/about/
 
-OMEKA PHPMYADMIN IMAGE
+![omeka database screenshot](https://github.com/kwaldenphd/football-exhibits/blob/main/images/omeka_db.jpg?raw=true)
 
 At the back-end, Omeka is driven by information that exists in tables that form a relational database.
 
@@ -351,9 +348,7 @@ From [the Wax documentation](https://minicomp.github.io/wiki/wax/)...
 
 Wax uses a combination of Ruby, Jekyll, and Rake.
 
-WAX WORKFLOW IMAGE
-
-https://minicomp.github.io/wiki/assets/wax_workflow.jpeg
+![wax workflow diagram](https://github.com/kwaldenphd/football-exhibits/blob/main/images/wax_workflow.jpeg?raw=true)
 
 Wax takes a spreadsheet with metadata and a collection of files (images, pdfs) and generates static pages for each item as well as a browsing and searching interface.
 
@@ -411,9 +406,7 @@ From CollectionBuilder's ["About"](https://collectionbuilder.github.io/about.htm
 
 CollectionBuilder uses a combination of Jekyll, GitHub, and Bootstrap for the core website components, and then integrates other open-source libraries (including DataTables, Leafletjs, lightGallery, TimelineJS) to generate other types of visualizations.
 
-COLLECTION BUILDER WORKFLOW IMAGE
-
-https://collectionbuilder.github.io/images/dlf-presentation.jpg
+![collectionbuilder workflow diagram](https://github.com/kwaldenphd/football-exhibits/blob/main/images/collectionbuilder_workflow.jpg?raw=true)
 
 Similar to Wax, CollectionBuilder takes a spreadsheet with metadata and a collection of files (images, pdfs) and generates static pages for each item as well as a browsing and searching interface.
 
