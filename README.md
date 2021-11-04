@@ -451,9 +451,12 @@ A few other types of work that might fall under this umbrella...
 **Map**
 
 Platform: [StoryMapJS](http://storymap.knightlab.com/) (Northwestern's Knight Lab)
+
 Examples:
 - [Fists of Freedom: Reactions to John Carlos and Tommie Smith's 1968 Protest, Dr. Louis Moore](https://uploads.knightlab.com/storymapjs/3107230e5eafea9f5e74496d4a1a0f40/black-fists/index.html)
 - [Black Athletes, Housing, and Racial Discrimination, Dr. Louis Moore](https://uploads.knightlab.com/storymapjs/3107230e5eafea9f5e74496d4a1a0f40/black-athletes-and-housing/index.html)
+
+Tutorial: https://lindseywieck.org/fall_2016_sf/storymapjstutorial.html
 
 **Interactive Data Visualization**
 
