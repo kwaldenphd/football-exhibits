@@ -341,11 +341,11 @@ There are two primary components that Wax uses to create this site: a spreadshee
 
 Metadata:
 - [GitHub](https://github.com/kwaldenphd/wax-sandbox/blob/main/_data/photos.csv)
-- [Google Drive]
+- [Google Drive](https://drive.google.com/drive/folders/1-3oFpWfjKFnact3tr7-zh7EdqGbHYerM?usp=sharing)
 
 Image files:
 - [GitHub](https://github.com/kwaldenphd/wax-sandbox/tree/main/_data/raw_images/bagby)
-- [Google Drive]
+- [Google Drive](https://docs.google.com/spreadsheets/d/1a_Ss8WS3gwLgHYmoEtgFyj2g4ySOz9Htm_L6J1jN5Jw/edit?usp=sharing)
 
 ### Scholastic Football Review Wax Sandbox
 
@@ -357,11 +357,11 @@ Again, there are two primary components driving the site: a spreadsheet with met
 
 Metadata:
 - [GitHub](https://github.com/kwaldenphd/wax-pdf-sandbox/blob/main/_data/scholastic.csv)
-- [Google Drive](
+- [Google Drive](https://docs.google.com/spreadsheets/d/1vpT21C7pfCGqN26pLKiWrtLky-hCjGTsY-RhyfTNWpk/edit?usp=sharing)
 
 Files:
 - [GitHub](https://github.com/kwaldenphd/wax-pdf-sandbox/tree/main/_data/raw_images/scholastic)
-- [Google Drive](
+- [Google Drive](https://drive.google.com/drive/folders/1IJo7FGRMFd414xOU3U_omPxBUlbMlLGo?usp=sharing)
 
 ## CollectionBuilder
 
@@ -400,11 +400,11 @@ There are two primary components that Wax uses to create this site: a spreadshee
 
 Metadata:
 - [GitHub](https://github.com/kwaldenphd/collectionbuilder-sandbox/blob/main/_data/bagby_collectionbuilder.csv)
-- [Google Drive]
+- [Google Drive](https://docs.google.com/spreadsheets/d/1idzbQRSBvW-_gpT-wl94PvE9UP22k3L_1ITwbObcCVU/edit?usp=sharing)
 
 Image files:
 - [GitHub](https://github.com/kwaldenphd/collectionbuilder-sandbox/tree/main/objects)
-- [Google Drive]
+- [Google Drive](https://drive.google.com/drive/folders/12XN0ap6FzBW2kpA3BcqgcgoPicP08vAh?usp=sharing)
 
 ### Scholastic Football Review CollectionBuilder Sandbox
 
@@ -416,7 +416,7 @@ In this case, CollectionBuilder is able to pull the PDF files from URLs that poi
 
 Metadata:
 - [GitHub](https://github.com/kwaldenphd/collectionbuilder-pdf-sandbox/blob/main/_data/scholastic_collectionbuilder.csv)
-- [Google Drive](
+- [Google Drive](https://docs.google.com/spreadsheets/d/1jOkBsxFs_76qwLqVTn7Eb1R1z8b0u4AJjLOZt0xRnl4/edit?usp=sharing)
 
 ## Sample project discussion/reflection questions
 
