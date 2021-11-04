@@ -548,8 +548,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Alumnus Digital Collection](http://archives.nd.edu/Alumnus/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Bagby Glass Plate Negative Collection
 
@@ -558,8 +558,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Bagby Glass Plate Negative Collection (Notre Dame Sports), 1920s-1930s](http://archives.nd.edu/Bagby/index.htm/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Annual Bulletins and Catalogs
 
@@ -568,8 +568,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Annual Catalogues or Bulletins, 1850 - 1914](http://archives.nd.edu/bulletin/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Capstan
 
@@ -578,8 +578,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Capstan, 1943-1945, Digital Collection](http://archives.nd.edu/Capstan/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Commencement Programs
 
@@ -588,8 +588,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Commencement Programs, 1845 - 2018](http://archives.nd.edu/Commencement/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Daily
 
@@ -598,8 +598,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Daily (student newspaper), 1923 - 1924](http://archives.nd.edu/Daily/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Directories
 
@@ -608,8 +608,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Directories, 1922 - 1974](http://archives.nd.edu/dir/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Magazine
 
@@ -618,8 +618,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame: A Magazine, 1948-1965](http://archives.nd.edu/ndm/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Observer
 
@@ -628,8 +628,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [The Observer (student newspaper), 1966 - 2015](http://archives.nd.edu/Observer/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Scholastic
 
@@ -638,8 +638,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Scholastic (student magazine), 1867 - 2011](http://archives.nd.edu/Scholastic/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Scholastic Football Review
 
@@ -648,8 +648,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Football Review, 1901 - 2010](http://archives.nd.edu/Football/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ### Voice
 
@@ -658,8 +658,8 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Voice (student newspaper), 1963 - 1966](http://archives.nd.edu/Voice/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
-- [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1EILKXMGwZawvZbuAhOZkSNfK9JnqOEr_?usp=sharing)
+- [Metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 ## Next Steps: Metadata
 
@@ -671,7 +671,7 @@ Google Drive:
 - [Metadata templates](https://drive.google.com/drive/folders/1NuVx0qiOBahf0neMnT9RYF_VlwkgiiVv?usp=sharing)
 - [Folder with starter metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
-Copy what you need into your group's Google Drive folder and build out two metadata files:
+Copy what you need into your group's Google Drive folder (or create shortcuts) and build out two metadata files:
 - Static site (Wax or Collection Builder)
 - Omeka
 
