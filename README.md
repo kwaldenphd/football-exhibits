@@ -61,8 +61,6 @@ As we think about how you could take up or extend these methods, we'll be doing 
 ## Lab Timeline
 
 We'll spend two Thursday class periods working on this lab: 10/28 and 11/4.
-- Goal for the end of 10/28 is to have identified a set of materials you want to work with, have started building out metadata, and have figured out the needed technical infrastructure for the digital archive/exhibit components of the lab
-- Goal for the end of 11/4 is to have started piecing things together for the digital archive/exhibit components of the lab and decided on next steps for the immersive/interactive digital story component of the lab
 
 Ideally we're finishing up this lab during Week #12 (week of 11/8) so we can turn and start to focus on the final project. 
 
@@ -228,34 +226,6 @@ Now, by way of comparison, let's head to the "[Digital Collections](http://archi
 Compare your experience navigating this interface and accessing materials to using the University Library catalog or Marble system.
 
 Those vastly different user experiences or ways of engaging/access materials are driven by two key components: technical infrastructure and metadata.
-
-Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites
-- Site text
-- Metadata
-- Pages/configuration
-
-Omeka Exhibit/item group- again, new materials OR substantively modify/expand Prof. Walden's sandbox or starter collections
-- Exhibit text
-- Metadata
-- Exhibit curation/configuration
-
-Immersive/interactive digital story- 
-- Adobe Spark
-- ArcGIS StoryMaps
-- Timeline JS
-- Storymap JS
-- Storyline JS
-- Something open-source/homegrown
-- If they want to dabble in 360/VR/AR/MR
-  * StorySphere
-  * SceneVR
-  * Etc
-
-Immersive/interactive components:
-- Object inventory
-- Design/visual content
-- Text
-- Potentially interactive maps
 
 ## Metadata Reflection Questions
 
@@ -456,9 +426,63 @@ Metadata:
 
 # Immersive or Interactive Digital Stories
 
+The last type of digital exhibit we're going to look at and think about for this lab are immersive or interactive digital stories.
+
+Digital storytelling is a VERY BROAD term that can include everything from podcasts to video essays.
+
+In this lab, we're going to focus on immersive or interactive digital stories that are either driven by metadata and/or operate as a media-rich long-form narrative.
+
+Earlier in this lab, you/your group looked at some of the  [interactive digital stories built using ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/albums/digital-humanities).
+- NOTE: You could also use open-source tools to generate some of the features/functionality you're seeing in StoryMaps.
+  * [An example built using JavaScript](https://bostonopioid.github.io/discarded-needle/index.html)
+  * [Juncture platform that stitches together JavaScript and Jekyll and integrates with GitHub Pages](https://juncture-digital.org/)
+- ANOTHER NOTE: An alternate platform that is well-suited to media-rich immersive long-form narratives (but does not support interactive mapping) is Adobe Spark
+  * [Example](https://spark.adobe.com/page/OVvbwUF0Qo1Cs/)
+  * [Tutorial](https://remix.nd.edu/photo-essay.html)
+
+A few other types of work that might fall under this umbrella...
+
+**Timelines**
+
+- Platform: [TimelineJS](http://timeline.knightlab.com/) (Northwestern's Knight Lab)
+- Example: [Notre Dame 1968 Timeline](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1MPga-KBhpiRiEK-caa_oPJawa8z129D1EnFzppi6YjU&font=Default&lang=en&initial_zoom=2&height=850&fbclid=IwAR1RDYYtV7cntvxMtXibUxXJjXEulZys-skG0qAL06nm-ksHIWqO0MxkJns)
+- Tutorial: https://remix.nd.edu/interactive-timeline.html
+
+**Map**
+
+Platform: [StoryMapJS](http://storymap.knightlab.com/) (Northwestern's Knight Lab)
+Examples:
+- [Fists of Freedom: Reactions to John Carlos and Tommie Smith's 1968 Protest, Dr. Louis Moore](https://uploads.knightlab.com/storymapjs/3107230e5eafea9f5e74496d4a1a0f40/black-fists/index.html)
+- [Black Athletes, Housing, and Racial Discrimination, Dr. Louis Moore](https://uploads.knightlab.com/storymapjs/3107230e5eafea9f5e74496d4a1a0f40/black-athletes-and-housing/index.html)
+
+**Interactive Data Visualization**
+
+Platform (with example): [StorylineJS](http://storyline.knightlab.com/) (Northwestern's Knight Lab)
+
+NOTE: You could also generate annotated interactive visualizations programmatically using Plotly in Python or RStudio.
+- [Python](https://plotly.com/python/text-and-annotations/)
+- [RStudio](https://plotly.com/ggplot2/text-and-annotations/)
+
+**360 photo/video**
+
+There's also a whole world of 360 photo/video and virtual reality adjacent work that might fall under the digital storytelling umbrella.
+
+A few user-friendly tools that support 360 photo/video:
+- [SceneVR](https://scene.knightlab.com/) (Northwestern's Knight Lab)
+- [Story Spheres](https://storyspheres.com/)
+- [Google Cardboard Camera app](https://blog.google/products/google-ar-vr/cardboard-camera-ios/)
+
+There's also a whole other world of more advanced tech applications in the area of [VR/MR/AR/XR](https://medium.com/@effinmickey/vr-ar-mr-xr-and-360-everything-youve-always-wanted-to-know-ae33e4515493) and [photogrammetry](https://rd.nytimes.com/projects/an-end-to-end-guide-to-photogrammetry-with-mobile-devices).
+
 ## Immersive/Interactive Digital Stories Reflection Questions
 
+- Any questions or observations from this section of the lab
+- Ideas that spark for how aspects of this work could be useful for telling a story about ND football
+  * Or, aspects that might connect to some of the primary source materials we’ve been exploring 
+
 # Next Steps
+
+
 
 ## Lab Notebook Components
 
