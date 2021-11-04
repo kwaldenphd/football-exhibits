@@ -482,7 +482,240 @@ There's also a whole other world of more advanced tech applications in the area 
 
 # Next Steps
 
+Now it's your turn to work in your group to begin exploring what might be possible with these tools/approaches and primary sources (or archival material) related to ND football.
 
+Each group is asked to build out three different types of digital exhibits as part of this lab.
+
+**#1: Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites.**
+
+For #1, some of the things that you'll need to build out along the way will include...
+- Site text
+- Metadata
+- Pages/configuration
+
+**#2: Develop a Omeka Exhibit or item group- again, new materials OR substantively modify/expand Prof. Walden's sandbox or starter collections**
+
+For #2, some of the things that you'll need to build out along the way will include...
+- Exhibit text
+- Metadata
+- Exhibit curation/configuration
+
+**#3: Build a small-scale immersive/interactive digital story**
+
+Options include:
+- Adobe Spark
+- ArcGIS StoryMaps
+- Timeline JS
+- Storymap JS
+- Storyline JS
+- Something open-source/homegrown
+- If you want to dabble in 360/VR/AR/MR
+  * StorySphere
+  * SceneVR
+  * Etc
+
+For #3, some of the things that you'll need to build out along the way might include...
+- Object inventory
+- Design/visual content
+- Text
+- Interactive map(s)
+- Metadata
+
+## Collaborating Well
+
+Collaboration is also your friend here- you don't have to come up with all the ideas or do all the work on your own. For example, CDT/CSE folks can focus on building out the technical infrastructure for the static sites. Data Science folks (or folks comfortable working with structured data) can focus on building on the metadata. Folks who want to think about front-end presentation or user experience could focus on task #3 and provide input on things like exhibit text, page layout, item tags, etc. for #1 and #2.
+
+In short, leverage the group's strengths. And divide/conquer.
+
+Folks are welcome to meet with me (individually or as a group) to ask questions and think about next steps for how to approach this lab.
+
+## Where to Start: Selecting Materials
+
+The first step is figuring out what materials you want to work with for tasks #1 and #2.
+
+Each collection has Google Drive links for the bulk downloaded files and starter metadata.
+
+NOTE: If you are planning on working using the Scholastic student magazine or Observer student newspaper to create a static site in Wax, you will need to select a subset of years to avoid hitting GitHub repository limits (and avoid crashing the Rake tasks)
+- CollectionBuilder can pull from URLs so you won't have the same issue
+
+### Alumnus
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Alumnus, published by the Alumni Association from January of 1923 until December of 1971, provided news and feature articles of interest to Notre Dame graduates. Notre Dame Magazine replaced it starting in 1972."
+- [Alumnus Digital Collection](http://archives.nd.edu/Alumnus/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Bagby Glass Plate Negative Collection
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Bagby company, a South Bend photographic studio, took pictures of athletes for Notre Dame. The digitized Glass Plate Negative Collection is part of a [larger Bagby collection](http://archives.nd.edu/findaids/ead/xml/bby.xml)."
+- [Bagby Glass Plate Negative Collection (Notre Dame Sports), 1920s-1930s](http://archives.nd.edu/Bagby/index.htm/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Annual Bulletins and Catalogs
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "Notre Dame's catalogues or bulletins included descriptions of courses, programs, curricula, facilities, and faculty. They generally [listed students](http://archives.nd.edu/bulletin/stdnts.htm) and provided information on [graduation ceremonies](http://archives.nd.edu/bulletin/cmmncmts.htm), degree recipients, and academic prizes won by students."
+- [Notre Dame Annual Catalogues or Bulletins, 1850 - 1914](http://archives.nd.edu/bulletin/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Capstan
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "During World War II, the United States Navy trained many officers at Notre Dame. The naval program published its own yearbook, called Capstan."
+- [Capstan, 1943-1945, Digital Collection](http://archives.nd.edu/Capstan/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Commencement Programs
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "Programs for graduations at the University of Notre Dame. The number of commencements per year varies. The content of programs also varies, but they generally provide information about graduating students, speakers, related events and ceremonies."
+- [Notre Dame Commencement Programs, 1845 - 2018](http://archives.nd.edu/Commencement/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Daily
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Notre Dame Daily first appeared on the twentieth of May, 1923. It published thirteen issue in its first volume, concluding at the end of the academic year on the sixth of June. Its second and final volume covered the 1923-1924 academic year in 128 issues beginning on the twenty-third of September and ending on the fifteenth of June."
+- [Notre Dame Daily (student newspaper), 1923 - 1924](http://archives.nd.edu/Daily/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Directories
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "Lists of Notre Dame officers, administrators, rectors, prefects, faculty, post-doctoral research fellows, and students. The alphabetical list of faculty generally indicates academic department, campus address and home address. The alphabetical list of students gives major subject or academic program, dorm or local address, and home address."
+- [Notre Dame Directories, 1922 - 1974](http://archives.nd.edu/dir/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Magazine
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Notre Dame Foundation published this quarterly magazine, which includes much of general interest to anyone studying Notre Dame in the middle of the twentieth century."
+- [Notre Dame: A Magazine, 1948-1965](http://archives.nd.edu/ndm/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Observer
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Observer started providing news for the University of Notre Dame and Saint Mary's College starting in the fall of 1966, first as a weekly, then bi-weekly, and soon as a daily newspaper. Starting with the issue of October 10, 2009, the Notre Dame / Saint Mary's Observer appeared online (http://ndsmcobserver.com/)."
+- [The Observer (student newspaper), 1966 - 2015](http://archives.nd.edu/Observer/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Scholastic
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Scholastic, a student weekly, began in 1867 as The Scholastic Year. For most of its history it provided news about Notre Dame as well as feature articles, literary works, essays, and alumni notes."
+- [Notre Dame Scholastic (student magazine), 1867 - 2011](http://archives.nd.edu/Scholastic/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Scholastic Football Review
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Notre Dame Scholastic published reviews of the football season starting in 1901. In 1910 a separate publication covered the "Gridiron Season" and from 1919 to 1921 a Football Review provided competition for the Scholastic. From 1924 to 1932 the Football Review prevailed as the Scholastic provided little or no commentary. In later years the Scholastic generally published its own special issue on the football season, though Irish Eye took over for a time in the 1980s."
+- [Notre Dame Football Review, 1901 - 2010](http://archives.nd.edu/Football/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+### Voice
+
+From the [University Archives](http://archives.nd.edu/digital/):
+- "The Voice of Notre Dame, predecessor of the more familiar daily Observer, appeared somewhat irregularly every week or so between 1963 and 1966, though issues were sometimes printed as little as two days apart."
+- [Notre Dame Voice (student newspaper), 1963 - 1966](http://archives.nd.edu/Voice/)
+
+Google Drive:
+- [Files]()
+- [Metadata]()
+
+## Next Steps: Metadata
+
+Once you've selected materials to work with, you'll need to build out metadata for the static site platform and Omeka.
+
+Prof. Walden has created metadata templates for each platform, and pulled starter metadata (URLs, file names, object descriptions) from the ND Archives.
+
+Google Drive:
+- [Metadata templates]()
+- [Folder with starter metadata]()
+
+Copy what you need into your group's Google Drive folder and build out two metadata files:
+- Static site (Wax or Collection Builder)
+- Omeka
+
+## Next Steps: Technical Infrastructure
+
+
+
+### Static Sites
+
+Note on scope: You're not being asked to develop a full-scale functioning project here. Folks working on this task should expect to spend 1-2 hours working on the static site you're buliding.
+
+### Omeka
+
+Note on scope: You're not being asked to develop a full-scale exhibit here. Folks working on this task should expect to spend 1-2 hours working on building metadata or an exhibit.
+
+## While You're Working on All of That...Task #3
+
+The last thing you're asked to do is build a small-scale immersive/interactive digital story.
+
+The first step is figuring out what platform(s) or tool(s) you want to explore and what you're interested in building.
+
+Options include:
+- Adobe Spark
+- ArcGIS StoryMaps
+- Timeline JS
+- Storymap JS
+- Storyline JS
+- Something open-source/homegrown
+- If you want to dabble in 360/VR/AR/MR
+  * StorySphere
+  * SceneVR
+  * Etc
+
+Once you've nailed that down, you might need to build out things like...
+- Object inventory
+- Design/visual content
+- Text
+- Interactive map(s)
+- Metadata
+
+Tutorials:
+- [Adobe Spark](https://remix.nd.edu/photo-essay.html)
+- [TimelineJS](https://remix.nd.edu/interactive-timeline.html)
+- [StorymapsJS](https://lindseywieck.org/fall_2016_sf/storymapjstutorial.html)
+- [ArcGIS StoryMaps](https://github.com/kwaldenphd/ArcGIS-StoryMaps)
+
+Note on scope: You're not being asked to develop a full-scale research project here. Folks working on this task should expect to spend 1-2 hours working on whatever you're buliding. 
 
 ## Lab Notebook Components
 
