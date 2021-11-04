@@ -545,7 +545,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Alumnus Digital Collection](http://archives.nd.edu/Alumnus/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Bagby Glass Plate Negative Collection
@@ -555,7 +555,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Bagby Glass Plate Negative Collection (Notre Dame Sports), 1920s-1930s](http://archives.nd.edu/Bagby/index.htm/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Annual Bulletins and Catalogs
@@ -565,7 +565,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Annual Catalogues or Bulletins, 1850 - 1914](http://archives.nd.edu/bulletin/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Capstan
@@ -575,7 +575,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Capstan, 1943-1945, Digital Collection](http://archives.nd.edu/Capstan/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Commencement Programs
@@ -585,7 +585,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Commencement Programs, 1845 - 2018](http://archives.nd.edu/Commencement/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Daily
@@ -595,7 +595,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Daily (student newspaper), 1923 - 1924](http://archives.nd.edu/Daily/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Directories
@@ -605,7 +605,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Directories, 1922 - 1974](http://archives.nd.edu/dir/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Magazine
@@ -615,7 +615,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame: A Magazine, 1948-1965](http://archives.nd.edu/ndm/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Observer
@@ -625,7 +625,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [The Observer (student newspaper), 1966 - 2015](http://archives.nd.edu/Observer/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Scholastic
@@ -635,7 +635,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Scholastic (student magazine), 1867 - 2011](http://archives.nd.edu/Scholastic/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Scholastic Football Review
@@ -645,7 +645,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Football Review, 1901 - 2010](http://archives.nd.edu/Football/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ### Voice
@@ -655,7 +655,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Voice (student newspaper), 1963 - 1966](http://archives.nd.edu/Voice/)
 
 Google Drive:
-- [Files](https://drive.google.com/drive/folders/1Cs85Wj6m8NCTnh-QlUqpB5wa7-42EVQY?usp=sharing)
+- [Files](https://drive.google.com/drive/folders/1Cz2dWvmiBaP5DzXhUC87ut0Kwnbhze-z?usp=sharing)
 - [Metadata](https://docs.google.com/spreadsheets/d/1R1F3YvjA9o7bgOJRWjskPdEEpoSLE933xqQ1k51KOeY/edit?usp=sharing)
 
 ## Next Steps: Metadata
@@ -665,8 +665,8 @@ Once you've selected materials to work with, you'll need to build out metadata f
 Prof. Walden has created metadata templates for each platform, and pulled starter metadata (URLs, file names, object descriptions) from the ND Archives.
 
 Google Drive:
-- [Metadata templates]()
-- [Folder with starter metadata]()
+- [Metadata templates](https://drive.google.com/drive/folders/1NuVx0qiOBahf0neMnT9RYF_VlwkgiiVv?usp=sharing)
+- [Folder with starter metadata](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing)
 
 Copy what you need into your group's Google Drive folder and build out two metadata files:
 - Static site (Wax or Collection Builder)
