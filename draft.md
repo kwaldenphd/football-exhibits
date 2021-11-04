@@ -1,4 +1,30 @@
+Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites
+- Site text
+- Metadata
+- Pages/configuration
 
+Omeka Exhibit/item group- again, new materials OR substantively modify/expand Prof. Walden's sandbox or starter collections
+- Exhibit text
+- Metadata
+- Exhibit curation/configuration
+
+Immersive/interactive digital story- 
+- Adobe Spark
+- ArcGIS StoryMaps
+- Timeline JS
+- Storymap JS
+- Storyline JS
+- Something open-source/homegrown
+- If they want to dabble in 360/VR/AR/MR
+  * StorySphere
+  * SceneVR
+  * Etc
+
+Immersive/interactive components:
+- Object inventory
+- Design/visual content
+- Text
+- Potentially interactive maps
 
 # Sample Digital Exhibits
 
