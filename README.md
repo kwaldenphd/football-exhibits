@@ -512,12 +512,11 @@ For #1, some of the things that you'll need to build out along the way will incl
 - Metadata
 - Pages/configuration
 
-**#2: Develop a Omeka Exhibit or item group- again, new materials OR substantively modify/expand Prof. Walden's sandbox or starter collections**
+**#2: Develop a Omeka Collection based on ND Archive materials**
 
 For #2, some of the things that you'll need to build out along the way will include...
-- Exhibit text
 - Metadata
-- Exhibit curation/configuration
+  * Potentially also exhibit curation/configuration
 
 **#3: Build a small-scale immersive/interactive digital story**
 
@@ -527,6 +526,7 @@ Options include:
 - Timeline JS
 - Storymap JS
 - Storyline JS
+- Curatescape (built on Omeka)
 - Something open-source/homegrown
 - If you want to dabble in 360/VR/AR/MR
   * StorySphere
