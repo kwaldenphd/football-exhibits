@@ -286,6 +286,10 @@ Omeka's full tech stack:
 
 For more on Omeka's technical infrastructure: https://github.com/omeka/Omeka
 
+Omeka sandbox site for this lab:
+- [Public site](http://kwaldenphd.com/omeka-classic-sandbox/)
+- [Admin login](kwaldenphd.com/omeka-classic-sandbox/admin/)
+
 ## Static Sites
 
 In the last few years, advocates of minimal computing principles have been thinking about other ways to create digital archives/exhibits that have less technical overhead than a content management system like Omeka.
@@ -296,7 +300,7 @@ Minimal computing is driven by "fundamental questions about choice and necessity
 - "What do we want?"
 - "What don't we want?"
 
-(Jentery Sayers, "[Miniaml Definitions](http://go-dh.github.io/mincomp/thoughts/2016/10/03/tldr/)" *Minimal Computing Working Group*, 3 October 2016)
+(Jentery Sayers, "[Minimal Definitions](http://go-dh.github.io/mincomp/thoughts/2016/10/03/tldr/)" *Minimal Computing Working Group*, 3 October 2016)
 
 Specifically, folks working in this area have been thinking about options that don't rely on relational databases or dynamically-generated web pages.
 
@@ -457,6 +461,18 @@ Examples:
 - [Black Athletes, Housing, and Racial Discrimination, Dr. Louis Moore](https://uploads.knightlab.com/storymapjs/3107230e5eafea9f5e74496d4a1a0f40/black-athletes-and-housing/index.html)
 
 Tutorial: https://lindseywieck.org/fall_2016_sf/storymapjstutorial.html
+
+Platform: [CurateScape, built on Omeka](https://curatescape.org)
+
+Examples:
+- [Prof. Walden's sandbox site](http://kwaldenphd.com/curatescape-sandbox/)
+- [College of Charleston](https://curatescape.org/projects/discovering-our-past-college-of-charleston-histories/)
+- [Muhlenberg College](https://curatescape.org/projects/muhlenberg-pathways-to-present/)
+- [Curatescape Project Directory](https://curatescape.org/projects/)
+
+Tutorial: 
+- [CurateScape documentation](https://curatescape.org/docs/content-creation-guide/)
+- [University of Oregon Library Guide](https://researchguides.uoregon.edu/c.php?g=900917&p=6482491)
 
 **Interactive Data Visualization**
 
