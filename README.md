@@ -798,11 +798,17 @@ Step 5: Visit your new site (and continue to refine as needed)
 
 Note on scope: You're not being asked to develop a full-scale exhibit here. Folks working on this task should expect to spend 1-2 hours working on building metadata for a collection of materials.
 
+
 Step 1: [Copy Omeka metadata template](https://docs.google.com/spreadsheets/d/1dMWU5a2xe6S4vVjNUrsXXVETJkdj8gH0xfEi6Cuk5VU/edit?usp=sharing)
 
 Step 2: If needed, take a look at [sample Omeka metadata](https://drive.google.com/drive/folders/1dU2jGfitJkLn6XOmCRglXIYu0QnnZs4P?usp=sharing)
 
 Step 3: [Add the existing metadata for your collection](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing) to your copy of the Omeka template
+- Directories (Christian, Juan)
+- Magazine (KMCPLC)
+- Observer (Audrey, Sydney, Kelly, Chris, Amy)
+- Scholastic (Jack Coan)
+- Voice (Charlotte, Grace, Maura, Carolyn, Caitlyn)
 
 Step 4: Fill out the rest of the metadata template ([more documentation on metadata fields](https://omeka.org/classic/docs/Content/Working_with_Dublin_Core/))
 
