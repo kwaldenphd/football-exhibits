@@ -814,7 +814,7 @@ Step 4: Fill out the rest of the metadata template ([more documentation on metad
 
 Step 5: Send metadata file to Prof. Walden
 - Or, if you want to create the collection in Omeka yourself...
-  * Log in to Omeka Sandbox site using your ND email ([public site](http://kwaldenphd.com/omeka-classic-sandbox/), [admin login](https://github.com/kwaldenphd/football-exhibits/blob/main/kwaldenphd.com/omeka-classic-sandbox/admin)
+  * Log in to Omeka Sandbox site using your ND email ([public site](http://kwaldenphd.com/omeka-classic-sandbox/), [admin login](http://kwaldenphd.com/omeka-classic-sandbox/admin/))
   * [Create a collection](https://omeka.org/classic/docs/Content/Collections/)
   * [Import using `CSV Import` plugin](https://omeka.org/classic/docs/Plugins/CSV_Import/)
 
