@@ -794,18 +794,33 @@ Step 5: Visit your new site (and continue to refine as needed)
 - URL structure: https://`your github username`.github.io/`your repository name`
 - Sample: https://kwaldenphd.github.io/collectionbuilder-sandbox/
 
-
 ### Omeka
 
 Note on scope: You're not being asked to develop a full-scale exhibit here. Folks working on this task should expect to spend 1-2 hours working on building metadata for a collection of materials.
 
+Step 1: [Copy Omeka metadata template](https://docs.google.com/spreadsheets/d/1dMWU5a2xe6S4vVjNUrsXXVETJkdj8gH0xfEi6Cuk5VU/edit?usp=sharing)
 
+Step 2: If needed, take a look at [sample Omeka metadata](https://drive.google.com/drive/folders/1dU2jGfitJkLn6XOmCRglXIYu0QnnZs4P?usp=sharing)
+
+Step 3: [Add the existing metadata for your collection](https://drive.google.com/drive/folders/1Cl4d22PQgJd6wKsjNq3W2mxGA01QZK3F?usp=sharing) to your copy of the Omeka template
+
+Step 4: Fill out the rest of the metadata template ([more documentation on metadata fields](https://omeka.org/classic/docs/Content/Working_with_Dublin_Core/))
+
+Step 5: Send metadata file to Prof. Walden
+- Or, if you want to create the collection in Omeka yourself...
+  * Log in to Omeka Sandbox site using your ND email ([public site](http://kwaldenphd.com/omeka-classic-sandbox/), [admin login](https://github.com/kwaldenphd/football-exhibits/blob/main/kwaldenphd.com/omeka-classic-sandbox/admin)
+  * [Create a collection](https://omeka.org/classic/docs/Content/Collections/)
+  * [Import using `CSV Import` plugin](https://omeka.org/classic/docs/Plugins/CSV_Import/)
+
+Step 6: Head to http://kwaldenphd.com/omeka-classic-sandbox/ to check out your collection!
 
 ## While You're Working on All of That...Task #3
 
 The last thing you're asked to do is build a small-scale immersive/interactive digital story.
+- Note on scope: You're not being asked to develop a full-scale research project here. Folks working on this task should expect to spend 1-2 hours working on whatever you're building.
+- Folks can work collaboratively on the same project or work individually with different tools. 
 
-The first step is figuring out what platform(s) or tool(s) you want to explore and what you're interested in building.
+Step 1: The first step is figuring out what platform(s) or tool(s) you want to explore and what you're interested in building.
 
 Options include:
 - Adobe Spark
@@ -820,7 +835,7 @@ Options include:
   * SceneVR
   * Etc
 
-Once you've nailed that down, you might need to build out things like...
+Step 2: Once you've nailed that down, you might need to build out things like...
 - Object inventory
 - Design/visual content
 - Text
@@ -836,7 +851,7 @@ Tutorials:
   * [CurateScape documentation](https://curatescape.org/docs/content-creation-guide/)
   * [University of Oregon Library Guide](https://researchguides.uoregon.edu/c.php?g=900917&p=6482491)
 
-Note on scope: You're not being asked to develop a full-scale research project here. Folks working on this task should expect to spend 1-2 hours working on whatever you're buliding. 
+Step 3: Publish your project and share link as part of lab notebook.
 
 ## Lab Notebook Components
 
