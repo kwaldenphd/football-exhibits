@@ -12,11 +12,11 @@ This lab provides a few different types of open-ended opportunities for thinking
 # Table of Contents
 
 - [How To Work Through This Lab](#how-to-work-through-this-lab)
-  * [Lab Notebook Components](#lab-notebook-components)
+- [Lab Notebook Components](#lab-notebook-components)
 - [Background](#background)
 - [Metadata](#metadata)
 - [Sample Digital Exhibit/Archive Projects](#sample-digital-exhibitarchive-projects)
-* [Immersive or Interactive Digital Stories](#immersive-or-interactive-digital-stories)
+- [Immersive or Interactive Digital Stories](#immersive-or-interactive-digital-stories)
 - [Next Steps](#next-steps)
 
 # How to Work Through This Lab
