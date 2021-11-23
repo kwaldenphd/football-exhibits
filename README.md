@@ -103,6 +103,8 @@ In this lab, we're going to focus on immersive or interactive digital stories th
 
 Now it's your turn to work in your group to begin exploring what might be possible with these tools/approaches and primary sources (or archival material) related to ND football.
 
+[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/next-steps.md)
+
 Each group is asked to build out three different types of digital exhibits as part of this lab.
 
 **#1: Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites.**
@@ -139,6 +141,8 @@ For #3, some of the things that you'll need to build out along the way might inc
 - Text
 - Interactive map(s)
 - Metadata
+
+[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/next-steps.md)
 
 ## Collaborating Well
 
