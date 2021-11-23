@@ -1,3 +1,52 @@
+# Next Steps
+
+Now it's your turn to work in your group to begin exploring what might be possible with these tools/approaches and primary sources (or archival material) related to ND football.
+
+Each group is asked to build out three different types of digital exhibits as part of this lab.
+
+**#1: Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites.**
+
+For #1, some of the things that you'll need to build out along the way will include...
+- Site text
+- Metadata
+- Pages/configuration
+
+**#2: Develop a Omeka Collection based on ND Archive materials**
+
+For #2, some of the things that you'll need to build out along the way will include...
+- Metadata
+  * Potentially also exhibit curation/configuration
+
+**#3: Build a small-scale immersive/interactive digital story**
+
+Options include:
+- Adobe Spark
+- ArcGIS StoryMaps
+- Timeline JS
+- Storymap JS
+- Storyline JS
+- Curatescape (built on Omeka)
+- Something open-source/homegrown
+- If you want to dabble in 360/VR/AR/MR
+  * StorySphere
+  * SceneVR
+  * Etc
+
+For #3, some of the things that you'll need to build out along the way might include...
+- Object inventory
+- Design/visual content
+- Text
+- Interactive map(s)
+- Metadata
+
+## Collaborating Well
+
+Collaboration is also your friend here- you don't have to come up with all the ideas or do all the work on your own. For example, CDT/CSE folks can focus on building out the technical infrastructure for the static sites. Data Science folks (or folks comfortable working with structured data) can focus on building on the metadata. Folks who want to think about front-end presentation or user experience could focus on task #3 and provide input on things like exhibit text, page layout, item tags, etc. for #1 and #2.
+
+In short, leverage the group's strengths. And divide/conquer.
+
+Folks are welcome to meet with me (individually or as a group) to ask questions and think about next steps for how to approach this lab.
+
 ## Where to Start: Selecting Materials
 
 The first step is figuring out what materials you want to work with for task #2.
