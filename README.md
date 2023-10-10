@@ -1,17 +1,11 @@
-# Lab #3: Digital Exhibits
+# Lab #3: Digital Exhibits & Digital Storytelling
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
-This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-# Overview
-
-This lab will involve working with digital archive and exhibit platforms and tools to think about avenues for presenting or sharing historical work. Specifically, it focuses on workflows for building out item-level metadata needed to generate a robust digital archive/exhibit and prototyping options for sharing or presenting that work using digital exhibits and interactive digital storytelling tools. 
-
-This lab provides a few different types of open-ended opportunities for thinking about how to share/communicate/present information related to primary source materials, in a smaller-scale, lower-stakes setting than the final project. I encourage folks to approach this lab as a pilot or “proof of concept” for work they might want to continue or develop further in the final project.
+This tutorial was written by Katheirne Walden and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
 
-- [How To Work Through This Lab](#how-to-work-through-this-lab)
+- [Overview](#overview)
 - [Lab Notebook Components](#lab-notebook-components)
 - [Background](#background)
 - [Metadata](#metadata)
@@ -19,48 +13,19 @@ This lab provides a few different types of open-ended opportunities for thinking
 - [Immersive or Interactive Digital Stories](#immersive-or-interactive-digital-stories)
 - [Next Steps](#next-steps)
 
-# How to Work Through This Lab
+# Overview
 
-[Link to Google Drive workspace for this lab](https://drive.google.com/drive/folders/13uxuOwLOO6taBSmj-8OvDnWf7EcKQZu3?usp=sharing)
+[Link to Google Drive workspace for this lab](https://drive.google.com/drive/folders/17-dYlpkFt2wOLNzvUS22mx3dU3ZxtIW7?usp=sharing)
 
-This lab is organized into three main sections:
-- What's possible under the umbrella of digital archives, digital exhibits, and immersive/interactive digital storytelling
-- What's involved in building these kinds of projects or components
-- What might be possible with these tools/approaches and primary sources or archival material related to ND football
+This lab involves thinking about how to move from item-level metadata to different modes of curating, connecting, and contextualizing primary source material using digital tools and platforms. 
 
-So the lab starts by looking at existing digital projects that incorporate these tools/methods, to think about what might be possible related to the work of this class.
+We'll start by thinking about how we add to item-level metadata to more fully contextualize a particular primary source, with an eye toward being able to make connections with other sources (or types of source material).
 
-Then, folks will have a chance to work behind-the-scenes with building these types of projects.
+Then we'll think about different tools or methods that let us connect this contextual information to primary sources, and connect primary sources with each other, in the service of a larger historical narrative or argument.
 
-In that behind the scenes work, we'll be thinking about...
-- The technical infrastructure needed to publish these projects
-- The metadata that drives these projects
-- What types of contextual or narrative information is also part of these projects
+In addition to the different platforms we'll explore in this lab, our work will be the foundation for a [public digital exhibit through the Hesburgh Libraries](https://digital-exhibits.library.nd.edu/). 
 
-Lastly, folks will have a chance to take up these methods to source material of your choosing that relates to ND football.
-
-As we think about how you could take up or extend these methods, we'll be doing that with an eye toward the final project.
-
-## Lab Notebook Components
-
-- Reflections/observations from the Background section of the lab
-- Reflections/observations from the Metadata section of the lab
-- Reflections/observations from your work exploring tools and sample projects
-- Your group's work building out digital exhibit/archive and immersive/interactive digital story
-  * Any data files you worked with
-  * Public-facing things you created (GitHub Pages site, Omeka collection/exhibit, StoryMap, timeline, etc)
-- Individual reflection
-  * At least 200 words (or 2-3 minutes audio/video), addressing the following questions:
-    * What you learned about metadata through this lab
-    * What you learned about digital exhibits/archives through this lab
-    * What you learned about immersive/interactive digital storytelling through this lab
-    * How you're thinking about these tools/approaches as they relate to ND football history and primary sources differently after this lab
-    * Where you would go next with these tools/methods (other research questions/topics you're interested in exploring, other data sources or types of data you would want to be able to work with, etc)
-    * Other comments/questions/observations
-
-If you're working in Google Drive, you can just submit a link to Google Drive.
-
-Notebooks can be individual or collaborative.
+## Exploring other projects 
 
 # Background
 
@@ -76,54 +41,152 @@ As you explore, consider…
 - Ideas that spark for how aspects of what this project is doing could be useful for telling a story about ND football
   * Or, aspects of the project design/composition that might connect to some of the primary source materials we’ve been exploring 
 
-# Metadata
+## Background
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/metadata.md)
+We'll be anchoring our work in this lab around a set of primary sources- specifically the Notre Dame Football game programs whose reproductions hang in the renovated stadium concourse. 
 
-# Sample Digital Exhibit/Archive Projects
+<p align="center"><img src="https://npr.brightspotcdn.com/dims4/default/edf2e00/2147483647/strip/true/crop/4916x3461+0+0/resize/880x620!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwvpe%2Ffiles%2F201708%2Fconcourse.jpg"></p>
 
-Now, we're going to think about how we can use metadata to build digital archives/exhibits, thinking about...
-- technical infrastructure
-- metadata
-- other information
+The 2017 renovation project that led to the selection of these game programs for the concourse was part of the multi-million dollar "Campus Crossroads" project.
+- [Notre Dame Stories](https://stories.nd.edu/stories/campus-crossroads/)
+  * [University YouTube channel](https://www.youtube.com/watch?v=-yIIcNUYLJk)
+- [Barton Malow Construction](https://www.bartonmalow.com/projects/campus-crossroads/)
+- [HOK design consultant](https://www.hok.com/projects/view/university-of-notre-dame-campus-crossroads-project/)
+- [South Bend Tribune](https://www.southbendtribune.com/story/news/local/2018/01/16/otre-dame-puts-finishing-touches-on-400-million-campus-crossroads-projec/117126596/)
+  * [Stadium-specific SBT article by Margaret Fosmoe](https://www.southbendtribune.com/story/news/local/2017/08/12/curtain-rises-on-notre-dame-stadium-renovations/45805867/)
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/sample-projects.md)
+We'll have a chance to see these game program reproductions in-person in a few weeks when we visit the stadium.
 
-# Immersive or Interactive Digital Stories
+## Metadata
 
-The last type of digital exhibit we're going to look at and think about for this lab are immersive or interactive digital stories.
+This collection of game programs (70 total) span 1913 to 1969.
+- [Link to game program metadata](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=298564474)
+- [Link to stadium concourse diagram](https://drive.google.com/file/d/11aCaWfr1dNcPQkMadq9hvdqYlcyZNRDH/view?usp=drive_link)
 
-Digital storytelling is a VERY BROAD term that can include everything from podcasts to video essays.
+The metadata Google Sheets workbook has a few different tabs:
+- `concourse-programs` includes information on where the programs are located in the stadium concourse, as well as basic game metadata (date, opponent, location, score)
+- `game-annotations` is where we'll start to flesh out details and other context information for each program
+- `season-annotations` is where we'll start to flesh out details and other context information for each season
+- `era-annotations` is where (if needed) we'll start to flesh out details and other context information for the eras represented by the stadium concourse programs
+- `other-sources` is where folks can include linsk to non-University Archives material
 
-In this lab, we're going to focus on immersive or interactive digital stories that are either driven by metadata and/or operate as a media-rich long-form narrative.
+We have a corresponding Google Drive infrastructure, in the `[concourse-programs](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G?usp=drive_link)` folder which groups programs by season, and includes placeholder folders for other sources we may find and want to connect to the game programs.
+- [University Archives' Digital Collections](https://archives.nd.edu/digital/)
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/digital-stories.md)
+# Part I: Developing Annotations 
 
-# Next Steps
+Before we start thinking about how we connect different sources (or bodies of source material), we need additional background and context on the game programs.
 
-Now it's your turn to work in your group to begin exploring what might be possible with these tools/approaches and primary sources (or archival material) related to ND football.
+**Step #1: Identify 3-4 game programs you want to write annotations for. Add your name to the `Assignment` tab in the [`season-annotations` sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=298564474).**
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/next-steps.md)
+Once folks have claimed game programs, we'll form 4 groups loosely organized by date (and head coach era):
+- Group #1: 1913-1930 (Jesse Harper, Knute Rockne)
+- Group #2: 1931-1943 (Frank Leahy, part i)
+- Group #3: 1944-1953 (Frank Leahy, part ii)
+- Group #4: 1954-1971 (Ara Parseghian)
 
-Each group is asked to build out three different types of digital exhibits as part of this lab.
+Folks can work primarily individually on the individual game program annotations, but leverage the group to write brief overview or recaps of each season and era.
+- Add group member names to the `Assignment` columns in the `season-annotations` and `era-annotations` sheets once you're in a group.
+- Feel free to divide and conquer individual seasons within the group.
 
-**#1: Spin up a working instance of Wax or CollectionBuilder OR substantively modify/expand Prof. Walden's sandbox sites.**
+**Step #2: Start preliminary research, using key University Archives collections as a starting point:**
 
-For #1, some of the things that you'll need to build out along the way will include...
-- Site text
-- Metadata
-- Pages/configuration
+Dig into the game program itself
 
-**#2: Develop a Omeka Collection based on ND Archive materials**
+Then fold in other University Archives sources
+- [Digest of University Archives digital collections](https://github.com/kwaldenphd/football-exhibits/blob/main/archive-resources.md) 
+  * [Scholastic student magazine, 1867-2011](https://archives.nd.edu/Scholastic/)
+  * [Scholastic football season reviews, 1901-2010](https://archives.nd.edu/Football/)
+  * [Observer student newspaper, 1966-present](https://archives.nd.edu/Observer/)
 
-For #2, some of the things that you'll need to build out along the way will include...
-- Metadata
-  * Potentially also exhibit curation/configuration
+Folks could do much deeper dives on particular games, seasons, or eras. For now, try to ground your annotations in at least one primary source (beyond the game program itself).
+- Add a PDF or image file of the source(s) you're using to the relevant subfolder in the [`concourse-programs` Google Drive folder](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G).
+- Don't be afraid to use screenshots or images from larger documents if there's something specific you want to highlight.
 
-**#3: Build a small-scale immersive/interactive digital story**
+Other encyclopedic resources (Wikipedia, College Football Reference, etc) are fair game- just make sure you cite appropriately (and note other sources you're using in the `other-sources` [Google Sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1385143351) tab).
 
-Options include:
-- Adobe Spark
+**Step #3: Write the game annotations.**
+
+In the context of football game programs, your annotation can cover....
+- When and where the game took place.
+- Result of the game (and mention of any events of note around the game)
+- Brief description of what's on the program cover
+
+An [example annotation that includes some of these components](https://www.lib.uidaho.edu/digital/footballcovers/items/footballcovers90.html), courtesy of the University of Idaho Libraries.
+- If you want to explore further, head to the [Hesburgh Libraries' Digital Exhibits website](https://digital-exhibits.library.nd.edu/) for various examples of annotations that in many cases go beyond the scope of what you're asked to develop for this lab.
+
+Annotations can go in the `Annotation` column for each sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
+
+**Step #4: Write the season or era annotations.**
+
+Once group members have developed annotations for their individual game programs, work as a group to write a brief season overview. 
+
+In the context of this lab, a season annotation can be a few sentences/paragraph that mentions...
+- Head coach, stand-out players (or other members of the coaching staff)
+- The season result (win-loss record, and any bowl games or playoff appearances)
+- Notable games (or other events of note)
+
+An era annotation can cover similar ground- a few sentences/paragraph that mentions...
+- How the head coach arrived at Notre Dame (prior work / background)
+- The coach's record (wins/losses, other notable achievements)
+- Notable seasons or events
+- Coach's legacy (statue, building, etc)
+
+**Step #5: Some kind of reflection/debrief something**
+
+What were you able to communicate, what isn't showing up
+
+Where you'd want to go next
+
+Other comments/constraints on form (or how we're understanding/engaging with this info differently)
+
+## Part II: Digital Exhibit/Storytelling Shallow Dives
+
+Now that we have a solid foundation of metadata and annotations for the game programs, let's jump 
+into a couple different digital workflows that let us connect and organize our work.
+
+### Timeline
+
+TIMELINE JS WORK GOES HERE (lots of copying/pasting, working with the template)
+
+### Map
+
+ARCGIS STORY MAP WORK GOES HERE
+
+Link to our group: https://arcg.is/1C1Xry2
+
+How much are they just annotating map points (versus digging into other aspects of StoryMaps functionality)
+
+### Exhibit
+
+Curatescape: http://kwaldenphd.com/curatescape-sandbox/
+
+What I'd need to do on the front for prep so they could just jump into their items and add info
+
+Central login?
+
+## Part III: Digital Exhibit/Storytelling Wireframe
+
+Now that we've seen a few different examples  to think about how we might connect or organize them (and eventually other sources) in some kind of digital space.
+
+**Step #1: a shit ton of reflection/ideation**
+
+Individual reflection, small group debrief
+
+- What were you able to accomplish
+- What you like about what you did
+- Ways in which the platform/medium choices shape historical narrative/argument (meaning making); ways we understand the history shaped by how it's presented
+
+- Where would you want to go next
+- Other types of sources, additional research
+- Other modes of presentation
+
+We've seen examples of other kinds of digital storytelling or treatment of sources....
+- [ND Stories, How ND became the Fighting Irish](https://www.nd.edu/stories/whats-in-a-name/) (media-rich narrative)
+- [Audio version](https://news.nd.edu/news/how-notre-dame-became-the-fighting-irish/)
+
+All the other things they could explore/build
+- Adobe Spark/Express
 - ArcGIS StoryMaps
 - Timeline JS
 - Storymap JS
@@ -135,50 +198,23 @@ Options include:
   * SceneVR
   * Etc
 
-For #3, some of the things that you'll need to build out along the way might include...
+For these options, some of the things that you might need to build out along the way could include...
 - Object inventory
 - Design/visual content
 - Text
 - Interactive map(s)
 - Metadata
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/next-steps.md)
+**Step #2: Start to flesh out a proposal / project plane / exhibit wireframe**
 
-## Collaborating Well
+What kinds of sources, what kinds of storytelling methods/tools/platforms
 
-Collaboration is also your friend here- you don't have to come up with all the ideas or do all the work on your own. For example, CDT/CSE folks can focus on building out the technical infrastructure for the static sites. Data Science folks (or folks comfortable working with structured data) can focus on building on the metadata. Folks who want to think about front-end presentation or user experience could focus on task #3 and provide input on things like exhibit text, page layout, item tags, etc. for #1 and #2.
+Audience, desired user experience 
 
-In short, leverage the group's strengths. And divide/conquer.
+What do you have, what remains to be done
 
-Folks are welcome to meet with me (individually or as a group) to ask questions and think about next steps for how to approach this lab.
+**Step #3: 11/2 University Archives visit**
 
-## Where to Start and Next Steps
 
-The big picture workflow or steps in this process:
-- Selecting materials
-- Building out metadata
-- Configuring static sites
-- Building a digital story
+**Step #4: Flesh out proposal, start to map onto possible final project horizons**
 
-[Link to this section of the lab](https://github.com/kwaldenphd/football-exhibits/blob/main/next-steps.md)
-
-## Lab Notebook Components
-
-- Reflections/observations from the Background section of the lab
-- Reflections/observations from the Metadata section of the lab
-- Reflections/observations from your work exploring tools and sample projects
-- Your group's work building out digital exhibit/archive and immersive/interactive digital story
-  * Any data files you worked with
-  * Public-facing things you created (GitHub Pages site, Omeka collection/exhibit, StoryMap, timeline, etc)
-- Individual reflection
-  * At least 200 words (or 2-3 minutes audio/video), addressing the following questions:
-    * What you learned about metadata through this lab
-    * What you learned about digital exhibits/archives through this lab
-    * What you learned about immersive/interactive digital storytelling through this lab
-    * How you're thinking about these tools/approaches as they relate to ND football history and primary sources differently after this lab
-    * Where you would go next with these tools/methods (other research questions/topics you're interested in exploring, other data sources or types of data you would want to be able to work with, etc)
-    * Other comments/questions/observations
-
-If you're working in Google Drive, you can just submit a link to Google Drive.
-
-Notebooks can be individual or collaborative.
