@@ -69,7 +69,7 @@ The metadata Google Sheets workbook has a few different tabs:
 - `era-annotations` is where (if needed) we'll start to flesh out details and other context information for the eras represented by the stadium concourse programs
 - `other-sources` is where folks can include linsk to non-University Archives material
 
-We have a corresponding Google Drive infrastructure, in the `[concourse-programs](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G?usp=drive_link)` folder which groups programs by season, and includes placeholder folders for other sources we may find and want to connect to the game programs.
+We have a corresponding Google Drive infrastructure, in the [`concourse-programs`](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G?usp=drive_link) folder which groups programs by season, and includes placeholder folders for other sources we may find and want to connect to the game programs.
 - [University Archives' Digital Collections](https://archives.nd.edu/digital/)
 
 # Part I: Annotations 
