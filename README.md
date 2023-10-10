@@ -6,12 +6,13 @@ This tutorial was written by Katheirne Walden and is licensed under a <a href="h
 # Table of Contents
 
 - [Overview](#overview)
+  * [Exploring Other Projects](#exploring-other-projects)
+  * [Background](#background)
+  * [Metadata](#metadata)
+- [Part I: Annotations](#part-i-annotations)
+- [Part II: Workflows](#part-ii-workflows)
+- [Part III: Horizons](#part-iii-horizons)
 - [Lab Notebook Components](#lab-notebook-components)
-- [Background](#background)
-- [Metadata](#metadata)
-- [Sample Digital Exhibit/Archive Projects](#sample-digital-exhibitarchive-projects)
-- [Immersive or Interactive Digital Stories](#immersive-or-interactive-digital-stories)
-- [Next Steps](#next-steps)
 
 # Overview
 
@@ -26,8 +27,6 @@ Then we'll think about different tools or methods that let us connect this conte
 In addition to the different platforms we'll explore in this lab, our work will be the foundation for a [public digital exhibit through the Hesburgh Libraries](https://digital-exhibits.library.nd.edu/). 
 
 ## Exploring other projects 
-
-# Background
 
 Explore...
 - [One of the Colored Conventions Projects exhibits](https://coloredconventions.org/exhibits/) (many to choose from!)
@@ -73,7 +72,7 @@ The metadata Google Sheets workbook has a few different tabs:
 We have a corresponding Google Drive infrastructure, in the `[concourse-programs](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G?usp=drive_link)` folder which groups programs by season, and includes placeholder folders for other sources we may find and want to connect to the game programs.
 - [University Archives' Digital Collections](https://archives.nd.edu/digital/)
 
-# Part I: Developing Annotations 
+# Part I: Annotations 
 
 Before we start thinking about how we connect different sources (or bodies of source material), we need additional background and context on the game programs.
 
@@ -140,7 +139,7 @@ Where you'd want to go next
 
 Other comments/constraints on form (or how we're understanding/engaging with this info differently)
 
-## Part II: Digital Exhibit/Storytelling Shallow Dives
+# Part II: Workflows
 
 Now that we have a solid foundation of metadata and annotations for the game programs, let's jump 
 into a couple different digital workflows that let us connect and organize our work.
@@ -165,7 +164,7 @@ What I'd need to do on the front for prep so they could just jump into their ite
 
 Central login?
 
-## Part III: Digital Exhibit/Storytelling Wireframe
+## Part III: Horizons
 
 Now that we've seen a few different examples  to think about how we might connect or organize them (and eventually other sources) in some kind of digital space.
 
