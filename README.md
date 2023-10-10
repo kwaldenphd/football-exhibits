@@ -154,6 +154,10 @@ ARCGIS STORY MAP WORK GOES HERE
 
 Link to our group: https://arcg.is/1C1Xry2
 
+Link to sample project: https://arcg.is/0iCDzG
+
+Link to underlying map: https://arcg.is/9KzD0
+
 How much are they just annotating map points (versus digging into other aspects of StoryMaps functionality)
 
 ### Exhibit
