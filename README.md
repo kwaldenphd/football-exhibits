@@ -200,7 +200,7 @@ Now, we'll have a chance to think about how those maps can be part of immersive,
 
 First, head to https://storymaps.arcgis.com and click the `Sign in to ArcGIS StoryMaps` button.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig3.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig3.png?raw=true" width=30%></p>
 
 Use the organizational URL option and sign in using the credentials you used in the last lab.
 
