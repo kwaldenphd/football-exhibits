@@ -192,32 +192,32 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 We encountered ArcGIS Online [in a previous lab](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md#arcgis-online), where we explored making interactive digital maps using ArcGIS Online.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig1.png?raw=true" width="1000"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig1.png?raw=true" width=60%></p>
 
 Now, we'll have a chance to think about how those maps can be part of immersive, media-rich experiences through [ArcGIS StoryMaps](https://storymaps.arcgis.com), "a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content."
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig2.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig2.png?raw=true" width=25%></p>
 
 First, head to https://storymaps.arcgis.com and click the `Sign in to ArcGIS StoryMaps` button.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig3.png?raw=true" width=30%></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig3.png?raw=true" width=25%></p>
 
 Use the organizational URL option and sign in using the credentials you used in the last lab.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig4.png?raw=true" width="1000"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig4.png?raw=true" width=65%></p>
 
 Under the `Group` option (under `Stories`), folks should see a class group pre-populated with a  `Notre Dame Stadium Concourse` project.
 - Link to our group: https://arcg.is/1C1Xry2
 - Link to the project: https://arcg.is/0iCDzG
 - Link to the underlying map: https://arcg.is/9KzD0
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig5.png?raw=true" width="1000"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig5.png?raw=true" width=65%></p>
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig6.png?raw=true" width="1000"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig6.png?raw=true" width=65%></p>
 
 Click on the story- Prof. Walden has added some preliminary content, including map pins for the stadium concourse programs. 
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig7.png?raw=true" width="750"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig7.png?raw=true" width=40%></p>
 
 But, if you click on a specific game program, you'll see there is no content beyond the cover and title. This is where we'll add in our game annotations!
 
