@@ -75,7 +75,7 @@ We have a corresponding Google Drive infrastructure, in the [`concourse-programs
 
 Before we start thinking about how we connect different sources (or bodies of source material), we need additional background and context on the game programs.
 
-**Step #1: Identify 3-4 game programs you want to write annotations for. Add your name to the `Assignment` tab in the [`season-annotations` sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=298564474).**
+## Step #1: Identify 3-4 game programs you want to write annotations for. Add your name to the `Assignment` tab in the [`season-annotations` sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=298564474).
 
 Once folks have claimed game programs, we'll form 4 groups loosely organized by date (and head coach era):
 - Group #1: 1913-1930 (Jesse Harper, Knute Rockne)
@@ -87,7 +87,7 @@ Folks can work primarily individually on the individual game program annotations
 - Add group member names to the `Assignment` columns in the `season-annotations` and `era-annotations` sheets once you're in a group.
 - Feel free to divide and conquer individual seasons within the group.
 
-**Step #2: Start preliminary research, using key University Archives collections as a starting point:**
+## Step #2: Start preliminary research, using key University Archives collections as a starting point:
 
 For the game programs that have been digitized, a good first step is to dig into the game program itself.
 
@@ -103,7 +103,7 @@ Folks could do much deeper dives on particular games, seasons, or eras. For now,
 
 Other encyclopedic resources (Wikipedia, College Football Reference, etc) are fair game- just make sure you cite appropriately (and note other sources you're using in the `other-sources` [Google Sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1385143351) tab).
 
-**Step #3: Write the game annotations.**
+## Step #3: Write the game annotations.
 
 In the context of individual games, your annotation can cover....
 - When and where the game took place.
@@ -117,7 +117,7 @@ Annotations can go in the `Annotation` column in the `game-annotations` sheet. I
 
 We can also add tags as part of our annotation. These would be things like team or school names, coach or player names, or other significant entitites. Tags should be separated by a semi-colon (`;`) and can go in the `Tags` column.
 
-**Step #4: Write the season or era annotations.**
+## Step #4: Write the season or era annotations.
 
 Once group members have developed annotations for their individual game programs, work as a group to write a brief season overview. 
 - Season annotations go in the `Annotation` column of the `season-annotations` sheet.
@@ -136,7 +136,7 @@ An era annotation can cover similar ground- a few sentences/paragraph that menti
 - Notable seasons or events
 - Coach's legacy (statue, building, etc)
 
-**Step #5: Reflection & Possible Next Steps**
+## Step #5: Reflection & Possible Next Steps
 
 Spend some time as a group (and/or on your own) discussing and reflecting on....
 
@@ -225,7 +225,7 @@ NOTE- ArcGIS StoryMaps has some limits on real-time collaboration! From [their d
 
 <blockquote>" If you edit an item at the same time as another coauthor, a notification will appear and display their name. You can click <bold>Exit</bold> to avoid losing any work, or you can select <bold>Overwrite</bold> to continue editing, which may result in some of the other coauthor's changes being lost. It is recommended that coauthors coordinate when collaborating on a story, collection, or a theme.</blockquote>
 
-Option #1: If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
+### Option #1: If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
 
 <p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig8.png?raw=true" width="500"></p>
 
@@ -243,7 +243,7 @@ Option #1: If there's anyone in the group with prior experience using ArcGIS Sto
 
 <p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig12.png?raw=true" width="1000"></p>
 
-Option #2: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
+### Option #2: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
 - [Link to tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
 
 ### StoryMap Discussion/Reflection Questions
@@ -291,13 +291,13 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 - Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
   * Any particular notes or comments on this platform
 
-## Part III: Horizons
+# Part III: Horizons
 
 Now that we've seen a few different examples, let’s start to think about how we might connect or organize a body of primary sources in some kind of digital space.
 
 Folks are welcome to work on this in groups if there's an idea the group is organizing around. But folks are also welcome to move between collaborative and individual work here.
 
-**Step #1: Reflection**
+### Step #1: Reflection
 
 First, spend some time in your group (and on your own), reflecting on...
 
@@ -344,7 +344,7 @@ For these options, some of the things that you might need to build out along the
 - Design/visual content
 - Text
 
-**Step #2: Brainstorming**
+## Step #2: Brainstorming
 
 In previous labs, we used this "Now it's your turn" section at the end of the lab to develop a small-scale research proposal connected to the tools and methods covered in the lab. That's one way to approach the last section of this lab. But we can also use this time and space to start thinking more expansively about what folks might be interested in pursuing or building via the final project.
 - [Link to the section of the syllabus that talks more about the final project](https://docs.google.com/document/d/1aYKyLlMB_O9uARg9NXDF32RU5DWbA1oj2b3pbciMA4U/edit#heading=h.3bze9rog87lt)
@@ -366,13 +366,13 @@ Some prompts that can structure your brainstorming...
 
 At this point, your responses may be preliminary in draft form. That's fine! We'll have space and time next week (along with targeted class work) to further hone these ideas.
 
-**Step #3: 11/2 University Archives visit**
+## Step #3: 11/2 University Archives visit
 
 On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
 - [Link to 11/2 slide deck](https://docs.google.com/presentation/d/1dJyOXNoIjNRgo0TlClzbPHgs2_5PoNyw5SQ0vKG_s6A/edit#slide=id.g2261178f27b_0_0)
 - [Link to Archives materials list]()
 
-**Step #4: Flesh out proposal, start to map onto possible final project horizons**
+## Step #4: Flesh out proposal, start to map onto possible final project horizons
 
 Continue developing your Step #2 responses. 
 
