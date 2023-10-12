@@ -1,4 +1,4 @@
-# Lab #3: Digital Exhibits & Digital Storytelling
+![image](https://github.com/kwaldenphd/football-exhibits/assets/48302237/627a5781-40e3-4986-88de-46b80021e241)# Lab #3: Digital Exhibits & Digital Storytelling
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial was written by Katheirne Walden and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -58,11 +58,11 @@ We'll have a chance to see these game program reproductions in-person in a few w
 
 ## Metadata
 
-This collection of game programs (70 total) span 1913 to 1969.
+This collection of game programs (72 total) span 1913 to 1969.
 - [Link to game program metadata](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=298564474)
 - [Link to stadium concourse diagram](https://drive.google.com/file/d/11aCaWfr1dNcPQkMadq9hvdqYlcyZNRDH/view?usp=drive_link)
 
-The metadata Google Sheets workbook has a few different tabs:
+The [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1867259709) has a few different tabs:
 - `concourse-programs` includes information on where the programs are located in the stadium concourse, as well as basic game metadata (date, opponent, location, score)
 - `game-annotations` is where we'll start to flesh out details and other context information for each program
 - `season-annotations` is where we'll start to flesh out details and other context information for each season
@@ -70,7 +70,6 @@ The metadata Google Sheets workbook has a few different tabs:
 - `other-sources` is where folks can include linsk to non-University Archives material
 
 We have a corresponding Google Drive infrastructure, in the [`concourse-programs`](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G?usp=drive_link) folder which groups programs by season, and includes placeholder folders for other sources we may find and want to connect to the game programs.
-- [University Archives' Digital Collections](https://archives.nd.edu/digital/)
 
 # Part I: Annotations 
 
@@ -90,7 +89,7 @@ Folks can work primarily individually on the individual game program annotations
 
 **Step #2: Start preliminary research, using key University Archives collections as a starting point:**
 
-Dig into the game program itself
+For the game programs that have been digitized, a good first step is to dig into the game program itself.
 
 Then fold in other University Archives sources
 - [Digest of University Archives digital collections](https://github.com/kwaldenphd/football-exhibits/blob/main/archive-resources.md) 
@@ -106,7 +105,7 @@ Other encyclopedic resources (Wikipedia, College Football Reference, etc) are fa
 
 **Step #3: Write the game annotations.**
 
-In the context of football game programs, your annotation can cover....
+In the context of individual games, your annotation can cover....
 - When and where the game took place.
 - Result of the game (and mention of any events of note around the game)
 - Brief description of what's on the program cover
@@ -114,16 +113,20 @@ In the context of football game programs, your annotation can cover....
 An [example annotation that includes some of these components](https://www.lib.uidaho.edu/digital/footballcovers/items/footballcovers90.html), courtesy of the University of Idaho Libraries.
 - If you want to explore further, head to the [Hesburgh Libraries' Digital Exhibits website](https://digital-exhibits.library.nd.edu/) for various examples of annotations that in many cases go beyond the scope of what you're asked to develop for this lab.
 
-Annotations can go in the `Annotation` column for each sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
+Annotations can go in the `Annotation` column for each the `game-annotations` sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
 
 **Step #4: Write the season or era annotations.**
 
 Once group members have developed annotations for their individual game programs, work as a group to write a brief season overview. 
+- Season annotations go in the `Annotation` column of the `season-annotations` sheet.
 
 In the context of this lab, a season annotation can be a few sentences/paragraph that mentions...
 - Head coach, stand-out players (or other members of the coaching staff)
 - The season result (win-loss record, and any bowl games or playoff appearances)
 - Notable games (or other events of note)
+
+Then, work as a group to write a brief era overview.
+- Era annotations go in the `Annotation` column of the `era-annotations` sheet.
 
 An era annotation can cover similar ground- a few sentences/paragraph that mentions...
 - How the head coach arrived at Notre Dame (prior work / background)
@@ -131,42 +134,133 @@ An era annotation can cover similar ground- a few sentences/paragraph that menti
 - Notable seasons or events
 - Coach's legacy (statue, building, etc)
 
-**Step #5: Some kind of reflection/debrief something**
+**Step #5: Reflection & Possible Next Steps**
 
-What were you able to communicate, what isn't showing up
+Spend some time as a group discussing and reflecting on....
 
-Where you'd want to go next
+- What you were able to synthesize or communicate via the different types of annotations
+  * Types of sources or information that were helpful
+  * Things your annotations are communicating about these games, seasons & eras
+- Thoughts on organizing these game programs by season or era
+  * Things that worked about this approach
+  * Alternate approaches the group might want to explore
 
-Other comments/constraints on form (or how we're understanding/engaging with this info differently)
+- Other things folks in the group want to explore in relation to these game programs. This could look like...
+  * Deeper dives into the sources you identified
+  * Other types of source material you want to explore
+  * Other formats or ways of engaging with these sources
+
+- Any preliminary thoughts on how you might want to connect or contextualize these programs and your annotation work via some type of public digital platform (thinking about the sample projects we explored at the start of this lab and earlier in the semester) 
 
 # Part II: Workflows
 
 Now that we have a solid foundation of metadata and annotations for the game programs, let's jump 
 into a couple different digital workflows that let us connect and organize our work.
 
-### Timeline
+## Timeline
 
-TIMELINE JS WORK GOES HERE (lots of copying/pasting, working with the template)
+Developed by Northwestern University's [Knight Lab](https://knightlab.northwestern.edu/) (collaboration between the journalism and engineering schools), "TimelineJS is an open-source tool that enables anyone to build visually rich, interactive timelines. Beginners can create a timeline using nothing more than a Google spreadsheet."
+- [Learn more about TimelineJS and explore sample projects](https://timeline.knightlab.com/)
 
-### Map
+We have a `timelineJS-template` tab on our [Google Sheet](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1867259709), which has already been populated with dates, titles, and image links (and published as a timeline).
+- [Link to our timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo&font=Default&lang=en&initial_zoom=2&height=650)
 
-ARCGIS STORY MAP WORK GOES HERE
+```html
+<!-- embed code for our timeline -->
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+```
 
-Link to our group: https://arcg.is/1C1Xry2
+But, we need to add in our game annotations. Paste your game annotations in the `Text` column. If you want to add a caption to the game program cover, that can go in the `Media Caption` column.
 
-Link to sample project: https://arcg.is/0iCDzG
+Once you've added annotations, you can refresh the Google Sheet to see the updated timeline.
 
-Link to underlying map: https://arcg.is/9KzD0
+### Timeline Discussion/Reflection Questions
 
-How much are they just annotating map points (versus digging into other aspects of StoryMaps functionality)
+QUESTION PLACEHOLDER
 
-### Exhibit
+## StoryMap
+
+We encountered ArcGIS Online [in a previous lab](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md#arcgis-online), where we explored making interactive digital maps using ArcGIS Online.
+
+IMAGE GOES HERE (fig 1)
+
+Now, we'll have a chance to think about how those maps can be part of immersive, media-rich experiences through [ArcGIS StoryMaps](https://storymaps.arcgis.com), "a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content."
+
+IMAGE GOES HERE (fig 2)
+
+First, head to https://storymaps.arcgis.com and click the `Sign in to ArcGIS StoryMaps` button.
+
+IMAGE GOES HERE (fig3)
+
+Use the organizational URL option and sign in using the credentials you used in the last lab.
+
+IMAGE GOES HERE (fig4)
+
+Under the `Group` option (under `Stories`), folks should see a class group pre-populated with a  `Notre Dame Stadium Concourse` project.
+- Link to our group: https://arcg.is/1C1Xry2
+- Link to the project: https://arcg.is/0iCDzG
+- Link to the underlying map: https://arcg.is/9KzD0
+
+IMAGE GOE SHERE (fig5)
+
+IMAGE GOE SHERE (fig 6)
+
+Click on the story- Prof. Walden has added some preliminary content, including map pins for the stadium concourse programs. 
+
+IMAGE GOES HERE (Fig 7)
+
+But, if you click on a specific game program, you'll see there is no content beyond the cover and title. This is where we'll add in our game annotations!
+
+NOTE- ArcGIS StoryMaps has some limits on real-time collaboration! From [their documentation](https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/co-author-a-story.htm):
+
+<blockquote>" If you edit an item at the same time as another coauthor, a notification will appear and display their name. You can click <bold>Exit</bold> to avoid losing any work, or you can select <bold>Overwrite</bold> to continue editing, which may result in some of the other coauthor's changes being lost. It is recommended that coauthors coordinate when collaborating on a story, collection, or a theme.</blockquote>
+
+If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
+
+FIG 8 GOES HERE
+
+- Click `Edit Story` in the top right-hand corner to edit the story
+
+FIG 9 GOES HERE
+
+- Paste in the annotations for each game program. If needed, you can select text to open up additional formatting options.
+
+FIG 10 FIG 11 GO HERE
+
+- Click `Publish` in the top right-hand corner to publish your updates.
+
+IMAGE GOES HERE 8
+
+While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
+- [Link to tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+
+### StoryMap Discussion/Reflection Questions
+
+QUESTION PLACEHOLDER
+
+Way the platform presents or lets us digest/synthesize/connect/etc sources
+
+Affordances of the platform
+
+Other things folks might want to do
+
+## Exhibit
 
 Curatescape: http://kwaldenphd.com/curatescape-sandbox/
 
 What I'd need to do on the front for prep so they could just jump into their items and add info
 
 Central login?
+
+### Exhibit Discussion/Reflection Questions
+
+QUESTION PLACEHOLDER
+
+Way the platform presents or lets us digest/synthesize/connect/etc sources
+
+Affordances of the platform
+
+Other things folks might want to do
 
 ## Part III: Horizons
 
