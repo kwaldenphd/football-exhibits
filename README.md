@@ -113,7 +113,7 @@ In the context of individual games, your annotation can cover....
 An [example annotation that includes some of these components](https://www.lib.uidaho.edu/digital/footballcovers/items/footballcovers90.html), courtesy of the University of Idaho Libraries.
 - If you want to explore further, head to the [Hesburgh Libraries' Digital Exhibits website](https://digital-exhibits.library.nd.edu/) for various examples of annotations that in many cases go beyond the scope of what you're asked to develop for this lab.
 
-Annotations can go in the `Annotation` column for each the `game-annotations` sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
+Annotations can go in the `Annotation` column in the `game-annotations` sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
 
 We can also add tags as part of our annotation. These would be things like team or school names, coach or player names, or other significant entitites. Tags should be separated by a semi-colon (`;`) and can go in the `Tags` column.
 
@@ -192,32 +192,32 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 We encountered ArcGIS Online [in a previous lab](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md#arcgis-online), where we explored making interactive digital maps using ArcGIS Online.
 
-IMAGE GOES HERE (fig 1)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig1.png?raw=true" width="1000"></p>
 
 Now, we'll have a chance to think about how those maps can be part of immersive, media-rich experiences through [ArcGIS StoryMaps](https://storymaps.arcgis.com), "a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content."
 
-IMAGE GOES HERE (fig 2)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig2.png?raw=true" width="500"></p>
 
 First, head to https://storymaps.arcgis.com and click the `Sign in to ArcGIS StoryMaps` button.
 
-IMAGE GOES HERE (fig3)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig3.png?raw=true" width="500"></p>
 
 Use the organizational URL option and sign in using the credentials you used in the last lab.
 
-IMAGE GOES HERE (fig4)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig4.png?raw=true" width="1000"></p>
 
 Under the `Group` option (under `Stories`), folks should see a class group pre-populated with a  `Notre Dame Stadium Concourse` project.
 - Link to our group: https://arcg.is/1C1Xry2
 - Link to the project: https://arcg.is/0iCDzG
 - Link to the underlying map: https://arcg.is/9KzD0
 
-IMAGE GOE SHERE (fig5)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig5.png?raw=true" width="1000"></p>
 
-IMAGE GOE SHERE (fig 6)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig6.png?raw=true" width="1000"></p>
 
 Click on the story- Prof. Walden has added some preliminary content, including map pins for the stadium concourse programs. 
 
-IMAGE GOES HERE (Fig 7)
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig7.png?raw=true" width="750"></p>
 
 But, if you click on a specific game program, you'll see there is no content beyond the cover and title. This is where we'll add in our game annotations!
 
@@ -225,23 +225,25 @@ NOTE- ArcGIS StoryMaps has some limits on real-time collaboration! From [their d
 
 <blockquote>" If you edit an item at the same time as another coauthor, a notification will appear and display their name. You can click <bold>Exit</bold> to avoid losing any work, or you can select <bold>Overwrite</bold> to continue editing, which may result in some of the other coauthor's changes being lost. It is recommended that coauthors coordinate when collaborating on a story, collection, or a theme.</blockquote>
 
-If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
+Option #1: If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
 
-FIG 8 GOES HERE
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig8.png?raw=true" width="500"></p>
 
 - Click `Edit Story` in the top right-hand corner to edit the story
 
-FIG 9 GOES HERE
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig9.png?raw=true" width="500"></p>
 
 - Paste in the annotations for each game program. If needed, you can select text to open up additional formatting options.
 
-FIG 10 FIG 11 GO HERE
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig10.png?raw=true" width="500"></p>
+
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig11.png?raw=true" width="500"></p>
 
 - Click `Publish` in the top right-hand corner to publish your updates.
 
-IMAGE GOES HERE 8
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig12.png?raw=true" width="1000"></p>
 
-While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
+Option #2: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
 - [Link to tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
 
 ### StoryMap Discussion/Reflection Questions
@@ -263,7 +265,7 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 Depending on what digital projects folks explored at the start of the this lab, you may have already encountered digital exhibits or archives in action. The [Colored Conventions Project's Digital Records website](https://omeka.coloredconventions.org/) is an example of a digital archive. 
 
-We'll be working with a digital archive platform called `Collection Builder`, first developed by the [University Idaho Libraries.](https://collectionbuilder.github.io/about.html.
+We'll be working with a digital archive platform called `Collection Builder`, first developed by the [University Idaho Libraries](https://collectionbuilder.github.io/about.html).
 - [Link to our CollectionBuilder site](https://kwaldenphd.github.io/nd-stadium-concourse/)
 - [Link to the back-end GitHub repository](https://github.com/kwaldenphd/nd-stadium-concourse)
 
@@ -291,7 +293,7 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 ## Part III: Horizons
 
-Now that we've seen a few different examples  to think about how we might connect or organize them (and eventually other sources) in some kind of digital space.
+Now that we've seen a few different examples, let’s start to think about how we might connect or organize a body of primary sources in some kind of digital space.
 
 Folks are welcome to work on this in groups if there's an idea the group is organizing around. But folks are also welcome to move between collaborative and individual work here.
 
@@ -367,7 +369,7 @@ At this point, your responses may be preliminary in draft form. That's fine! We'
 **Step #3: 11/2 University Archives visit**
 
 On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
-- [Link to 11/2 slide deck]()
+- [Link to 11/2 slide deck](https://docs.google.com/presentation/d/1dJyOXNoIjNRgo0TlClzbPHgs2_5PoNyw5SQ0vKG_s6A/edit#slide=id.g2261178f27b_0_0)
 - [Link to Archives materials list]()
 
 **Step #4: Flesh out proposal, start to map onto possible final project horizons**
