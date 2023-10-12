@@ -1,4 +1,4 @@
-![image](https://github.com/kwaldenphd/football-exhibits/assets/48302237/627a5781-40e3-4986-88de-46b80021e241)# Lab #3: Digital Exhibits & Digital Storytelling
+# Lab #3: Digital Exhibits & Digital Storytelling
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial was written by Katheirne Walden and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
@@ -12,7 +12,7 @@ This tutorial was written by Katheirne Walden and is licensed under a <a href="h
 - [Part I: Annotations](#part-i-annotations)
 - [Part II: Workflows](#part-ii-workflows)
 - [Part III: Horizons](#part-iii-horizons)
-- [Lab Notebook Components](#lab-notebook-components)
+- [Lab Submission](#lab-submission)
 
 # Overview
 
@@ -115,6 +115,8 @@ An [example annotation that includes some of these components](https://www.lib.u
 
 Annotations can go in the `Annotation` column for each the `game-annotations` sheet. If you're struggling to make your annotation work in the spreadsheet format, we'll figure out another workflow.
 
+We can also add tags as part of our annotation. These would be things like team or school names, coach or player names, or other significant entitites. Tags should be separated by a semi-colon (`;`) and can go in the `Tags` column.
+
 **Step #4: Write the season or era annotations.**
 
 Once group members have developed annotations for their individual game programs, work as a group to write a brief season overview. 
@@ -136,7 +138,7 @@ An era annotation can cover similar ground- a few sentences/paragraph that menti
 
 **Step #5: Reflection & Possible Next Steps**
 
-Spend some time as a group discussing and reflecting on....
+Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 - What you were able to synthesize or communicate via the different types of annotations
   * Types of sources or information that were helpful
@@ -154,8 +156,7 @@ Spend some time as a group discussing and reflecting on....
 
 # Part II: Workflows
 
-Now that we have a solid foundation of metadata and annotations for the game programs, let's jump 
-into a couple different digital workflows that let us connect and organize our work.
+Now that we have a solid foundation of metadata and annotations for the game programs, let's jump into a couple different digital workflows that let us connect and organize our work.
 
 ## Timeline
 
@@ -176,7 +177,16 @@ Once you've added annotations, you can refresh the Google Sheet to see the updat
 
 ### Timeline Discussion/Reflection Questions
 
-QUESTION PLACEHOLDER
+Spend some time as a group (and/or on your own) discussing and reflecting on....
+
+- What the timeline format facilitates in terms of connecting and contextualizing information about the game programs
+  * Things the timeline emphasizes about these games, seasons & eras
+
+- Affordances or drawbacks of the platform; Thoughts on organizing these game programs chronologically
+  * Things that worked about this approach
+  * Alternate approaches the group might want to explore
+
+- Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
 
 ## StoryMap
 
@@ -236,82 +246,159 @@ While that's happening, others new to the platform can work through the "[Gettin
 
 ### StoryMap Discussion/Reflection Questions
 
-QUESTION PLACEHOLDER
+Spend some time as a group (and/or on your own) discussing and reflecting on....
 
-Way the platform presents or lets us digest/synthesize/connect/etc sources
+- What the StoryMap format facilitates in terms of connecting and contextualizing information about the game programs
+  * Things the template Prof. Walden set up emphasizes about these games, seasons & eras
+  * Other things that might be possible in the platform
 
-Affordances of the platform
+- Affordances or drawbacks of the platform; Thoughts on organizing these game programs according to the stadium concourse layout
+  * Things that worked about this approach
+  * Alternate approaches the group might want to explore
 
-Other things folks might want to do
+- Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
+  * Any particular notes or comments on this platform
 
-## Exhibit
+## Archive / Exhibit
 
-Curatescape: http://kwaldenphd.com/curatescape-sandbox/
+Depending on what digital projects folks explored at the start of the this lab, you may have already encountered digital exhibits or archives in action. The [Colored Conventions Project's Digital Records website](https://omeka.coloredconventions.org/) is an example of a digital archive. 
 
-What I'd need to do on the front for prep so they could just jump into their items and add info
+We'll be working with a digital archive platform called `Collection Builder`, first developed by the [University Idaho Libraries.](https://collectionbuilder.github.io/about.html.
+- [Link to our CollectionBuilder site](https://kwaldenphd.github.io/nd-stadium-concourse/)
+- [Link to the back-end GitHub repository](https://github.com/kwaldenphd/nd-stadium-concourse)
 
-Central login?
+<blockquote>"CollectionBuilder is a set of flexible, static web templates for creating digital collection websites. These templates are driven by metadata and powered by modern static web technology. Using three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—CollectionBuilder helps users to build and customize sustainable, digital collections and exhibits for free, learning valuable development practices in the process."</blockquote>
+
+Metadata is at the core of how a digital archive organizes and provides access to primary source material. Our [`collection-builder-metadata`](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1291787307) Google Sheet already has game program metadata formatted for the platform we'll be exploring.
+
+But, we need to add in our game annotations and the tags we built out for each game. Paste your game annotations in the `Description` column. Tags can go in the `subject` column.
+- Prof. Walden (or future Dr. Swisher) will update the site's metadata so the site will reflect these changes!
 
 ### Exhibit Discussion/Reflection Questions
 
-QUESTION PLACEHOLDER
+Spend some time as a group (and/or on your own) discussing and reflecting on....
 
-Way the platform presents or lets us digest/synthesize/connect/etc sources
+- What the digital archive and exhibit format facilitates in terms of connecting and contextualizing information about the game programs
+  * Things the template Prof. Walden set up emphasizes about these games, seasons & eras
+  * Other things that might be possible in the platform
 
-Affordances of the platform
+- Affordances or drawbacks of the platform; Thoughts on the various ways the platform organizes the game programs
+  * Things that worked about this approach
+  * Alternate approaches the group might want to explore
 
-Other things folks might want to do
+- Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
+  * Any particular notes or comments on this platform
 
 ## Part III: Horizons
 
 Now that we've seen a few different examples  to think about how we might connect or organize them (and eventually other sources) in some kind of digital space.
 
-**Step #1: a shit ton of reflection/ideation**
+Folks are welcome to work on this in groups if there's an idea the group is organizing around. But folks are also welcome to move between collaborative and individual work here.
 
-Individual reflection, small group debrief
+**Step #1: Reflection**
 
-- What were you able to accomplish
-- What you like about what you did
-- Ways in which the platform/medium choices shape historical narrative/argument (meaning making); ways we understand the history shaped by how it's presented
+First, spend some time in your group (and on your own), reflecting on...
 
-- Where would you want to go next
-- Other types of sources, additional research
-- Other modes of presentation
+- What you/your group were able to accomplish in this lab
+  * What you like about what you did, or things you're noticing across this lab in terms of ways of contextualizing and connecting historical information
+  * Ways in which the digital platform or format shaped the choices you made or how information was presented
 
-We've seen examples of other kinds of digital storytelling or treatment of sources....
+- Things you're interested in exploring further. This could look like...
+  * Deeper dives into the sources you identified
+  * Other types of source material you want to explore
+  * Other formats or ways of engaging with these sources
+
+The workflows this lab introduced focused on the digital archive and digital exhibit dimensions of presenting or synthesizing historical information via digital tools and platforms. We focused on immersive or interactive digital stories that are either driven by metadata and/or operate as a media-rich long-form narrative.
+
+But digital storytelling is a VERY BROAD term that can include everything from podcasts to video essays. Earlier in the semester, we've seen examples of other kinds of digital storytelling or treatment of sources....
 - [ND Stories, How ND became the Fighting Irish](https://www.nd.edu/stories/whats-in-a-name/) (media-rich narrative)
-- [Audio version](https://news.nd.edu/news/how-notre-dame-became-the-fighting-irish/)
+  * [Audio version](https://news.nd.edu/news/how-notre-dame-became-the-fighting-irish/)
 
-All the other things they could explore/build
-- Adobe Spark/Express
-- ArcGIS StoryMaps
-- Timeline JS
-- Storymap JS
-- Storyline JS
-- Curatescape (built on Omeka)
-- Something open-source/homegrown
-- If you want to dabble in 360/VR/AR/MR
-  * StorySphere
-  * SceneVR
-  * Etc
+And there are MANY other types of work that fall under the umbrella of digital storytelling:
+
+**Immersive long-form narrative**
+- Platform: Adobe Express
+- [Example](https://express.adobe.com/page/OVvbwUF0Qo1Cs/), [Tutorial](https://remix.nd.edu/photo-essay.html)
+
+**Interactive Data Visualization**
+- Platform (with example + tutorial): [StorylineJS](http://storyline.knightlab.com/) (Northwestern's Knight Lab)
+- You could also generate annotated interactive visualizations programmatically using Plotly in Python or RStudio.
+  * [Python](https://plotly.com/python/text-and-annotations/)
+  * [RStudio](https://plotly.com/ggplot2/text-and-annotations/)
+
+**360 Photo/Video**
+
+There's also a whole world of 360 photo/video and virtual reality adjacent work that might fall under the digital storytelling umbrella.
+
+A few user-friendly tools that support 360 photo/video:
+- [SceneVR](https://scene.knightlab.com/) (Northwestern's Knight Lab)
+- [ThingLink](https://www.thinglink.com/blog/how-to-make-a-360-virtual-tour/)
+- [Google Cardboard Camera app](https://blog.google/products/google-ar-vr/cardboard-camera-ios/)
+
+There's also a whole other world of more advanced tech applications in the area of [VR/MR/AR/XR](https://medium.com/@effinmickey/vr-ar-mr-xr-and-360-everything-youve-always-wanted-to-know-ae33e4515493) and [photogrammetry](https://rd.nytimes.com/projects/an-end-to-end-guide-to-photogrammetry-with-mobile-devices).
 
 For these options, some of the things that you might need to build out along the way could include...
-- Object inventory
+- Object inventory and/or metadata
 - Design/visual content
 - Text
-- Interactive map(s)
-- Metadata
 
-**Step #2: Start to flesh out a proposal / project plane / exhibit wireframe**
+**Step #2: Brainstorming**
 
-What kinds of sources, what kinds of storytelling methods/tools/platforms
+In previous labs, we used this "Now it's your turn" section at the end of the lab to develop a small-scale research proposal connected to the tools and methods covered in the lab. That's one way to approach the last section of this lab. But we can also use this time and space to start thinking more expansively about what folks might be interested in pursuing or building via the final project.
+- [Link to the section of the syllabus that talks more about the final project](https://docs.google.com/document/d/1aYKyLlMB_O9uARg9NXDF32RU5DWbA1oj2b3pbciMA4U/edit#heading=h.3bze9rog87lt)
 
-Audience, desired user experience 
+There's no requirement that you build a digital exhibit/archive/story for the final project. But if this lab has piqued your interest, I'd encourage folks to start to get thoughts on paper for the final project.
 
-What do you have, what remains to be done
+Otherwise, this is your turn to come up with a small-scale theme or topic related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the tools and methods covered in this lab.
+
+Folks are welcome to work on this in groups if there's an idea the group is organizing around. But folks are also welcome to move between collaborative and individual work here.
+
+Some prompts that can structure your brainstorming...
+- What kinds of sources you're interested in exploring or bringing together
+- What kinds of storytelling or presentation tools/platforms might be a good fit
+  * Are you thinking of a linear or chronological approach, how much is text versus other forms of media, is there an interactive visualization (including mapping) component, etc
+  * You're also not restricted to the workflows we covered in the lab. If other ideas are sparking (audio, video, 360/immersive, etc), explore them!
+- Who would be the audience for what you build; how do you imagine them interacting with your project
+- What are you (or your group) well-positioned to develop; What are you less sure of, or what skills will you/your group need to build or acquire
+- Other questions you have or comments on ideas, goals, and next steps.
+
+At this point, your responses may be preliminary in draft form. That's fine! We'll have space and time next week (along with targeted class work) to further hone these ideas.
 
 **Step #3: 11/2 University Archives visit**
 
+On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
+- [Link to 11/2 slide deck]()
+- [Link to Archives materials list]()
 
 **Step #4: Flesh out proposal, start to map onto possible final project horizons**
 
+Continue developing your Step #2 responses. 
+
+- What kinds of sources you're interested in exploring or bringing together
+- What kinds of storytelling or presentation tools/platforms might be a good fit
+  * Are you thinking of a linear or chronological approach, how much is text versus other forms of media, is there an interactive visualization (including mapping) component, etc
+  * You're also not restricted to the workflows we covered in the lab. If other ideas are sparking (audio, video, 360/immersive, etc), explore them!
+- Who would be the audience for what you build; how do you imagine them interacting with your project
+- What are you (or your group) well-positioned to develop; What are you less sure of, or what skills will you/your group need to build or acquire
+- Other questions you have or comments on ideas, goals, and next steps.
+
+Your work here could here could be a longer narrative (at least 500 words) that synthesizes your responses to these prompts. You could also break out your responses into distinct sections for each question (sources, formats, users, open questions/next steps). 
+- Visual models like [concept maps or wireframes](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/) aren't required. But I encourage folks to explore that mode of organizing and refining your thinking if it would be helpful.
+- We'll start talking in more depth about the final project in a few weeks. If you're thinking about this proposal being part of the final project, folks may be interested in our [final project proposal template](https://docs.google.com/document/d/1ROYfpEJBA6TqzG9UF7xdkw8GFWjSKCe6jqbp8_Ay9CM/edit#heading=h.m1d7wm3zbe9p).
+
+# Lab Submission
+
+Part I: Annotations
+- Individual + collaborative work in the [`nd-concourse-programs`](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1291787307) Google Sheet
+- Reflection on that work (individual and/or collaborative Google Doc)
+
+Part II: Workflows
+- Collaborative work we did in class on a timeline, map, and exhibit
+- Reflection on that work (individual and/or collaborative Google Doc)
+
+Part III: 
+- Reflection on possible next steps (individual and/or collaborative Google Doc)
+- Brainstorming preliminary final project ideas (or a small-scale digital archive/exhibit project)
+  * Individual and/or collaborative Google Doc
+
+You're welcome to do a collaborative Google Doc for the portions that involved collaborative work. If there are aspects of this lab that were largely individual work, you're welcome to fold that into the group Google Doc or do a separate/additional Canvas submission.
