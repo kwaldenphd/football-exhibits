@@ -227,21 +227,21 @@ NOTE- ArcGIS StoryMaps has some limits on real-time collaboration! From [their d
 
 ### Option #1: If there's anyone in the group with prior experience using ArcGIS StoryMaps, let's have those folks take the lead on pasting in our annotations.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig8.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig8.png?raw=true" width=30%></p>
 
 - Click `Edit Story` in the top right-hand corner to edit the story
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig9.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig9.png?raw=true" width=30%></p>
 
 - Paste in the annotations for each game program. If needed, you can select text to open up additional formatting options.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig10.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig10.png?raw=true" width=30%></p>
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig11.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig11.png?raw=true" width=30%></p>
 
 - Click `Publish` in the top right-hand corner to publish your updates.
 
-<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig12.png?raw=true" width="1000"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig12.png?raw=true" width=65%></p>
 
 ### Option #2: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
 - [Link to tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
