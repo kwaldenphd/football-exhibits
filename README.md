@@ -188,6 +188,37 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 - Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
 
+## Archive / Exhibit
+
+Depending on what digital projects folks explored at the start of the this lab, you may have already encountered digital exhibits or archives in action. The [Colored Conventions Project's Digital Records website](https://omeka.coloredconventions.org/) is an example of a digital archive. 
+
+We'll be working with a digital archive platform called `Collection Builder`, first developed by the [University Idaho Libraries](https://collectionbuilder.github.io/about.html).
+- [Link to our CollectionBuilder site](https://kwaldenphd.github.io/nd-stadium-concourse/)
+- [Link to the back-end GitHub repository](https://github.com/kwaldenphd/nd-stadium-concourse)
+
+<blockquote>"CollectionBuilder is a set of flexible, static web templates for creating digital collection websites. These templates are driven by metadata and powered by modern static web technology. Using three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—CollectionBuilder helps users to build and customize sustainable, digital collections and exhibits for free, learning valuable development practices in the process."</blockquote>
+
+Metadata is at the core of how a digital archive organizes and provides access to primary source material. Our [`collection-builder-metadata`](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1291787307) Google Sheet already has game program metadata formatted for the platform we'll be exploring.
+
+But, we need to add in our game annotations and the tags we built out for each game. Paste your game annotations in the `Description` column. Tags can go in the `subject` column.
+- Prof. Walden (or future Dr. Swisher) will update the site's metadata so the site will reflect these changes!
+  * File should be named `metadata.csv` and gets uploaded to https://github.com/kwaldenphd/nd-stadium-concourse/tree/main/_data
+
+### Exhibit Discussion/Reflection Questions
+
+Spend some time as a group (and/or on your own) discussing and reflecting on....
+
+- What the digital archive and exhibit format facilitates in terms of connecting and contextualizing information about the game programs
+  * Things the template Prof. Walden set up emphasizes about these games, seasons & eras
+  * Other things that might be possible in the platform
+
+- Affordances or drawbacks of the platform; Thoughts on the various ways the platform organizes the game programs
+  * Things that worked about this approach
+  * Alternate approaches the group might want to explore
+
+- Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
+  * Any particular notes or comments on this platform
+
 ## StoryMap
 
 We encountered ArcGIS Online [in a previous lab](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md#arcgis-online), where we explored making interactive digital maps using ArcGIS Online.
@@ -207,7 +238,7 @@ Use the organizational URL option and sign in using the credentials you used in 
 <p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig4.png?raw=true" width=65%></p>
 
 Under the `Group` option (under `Stories`), folks should see a class group pre-populated with a  `Notre Dame Stadium Concourse` project.
-- Link to our group: https://arcg.is/1C1Xry2
+- Link to our group: https://arcg.is/C9Cnq
 - Link to the project: https://arcg.is/0iCDzG
 - Link to the underlying map: https://arcg.is/9KzD0
 
@@ -243,8 +274,10 @@ NOTE- ArcGIS StoryMaps has some limits on real-time collaboration! From [their d
 
 <p align="center"><img src="https://github.com/kwaldenphd/football-exhibits/blob/main/images/figures/fig12.png?raw=true" width=65%></p>
 
-### Option #2: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
+### Option #2a: While that's happening, others new to the platform can work through the "[Getting started with ArcGIS StoryMaps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)" tutorial to get a feel for the platform.
 - [Link to tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+
+### Option #2b: Folks can also make a copy of Prof. Walden's StoryMaps project and explore the platform on your own.
 
 ### StoryMap Discussion/Reflection Questions
 
@@ -255,36 +288,6 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
   * Other things that might be possible in the platform
 
 - Affordances or drawbacks of the platform; Thoughts on organizing these game programs according to the stadium concourse layout
-  * Things that worked about this approach
-  * Alternate approaches the group might want to explore
-
-- Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
-  * Any particular notes or comments on this platform
-
-## Archive / Exhibit
-
-Depending on what digital projects folks explored at the start of the this lab, you may have already encountered digital exhibits or archives in action. The [Colored Conventions Project's Digital Records website](https://omeka.coloredconventions.org/) is an example of a digital archive. 
-
-We'll be working with a digital archive platform called `Collection Builder`, first developed by the [University Idaho Libraries](https://collectionbuilder.github.io/about.html).
-- [Link to our CollectionBuilder site](https://kwaldenphd.github.io/nd-stadium-concourse/)
-- [Link to the back-end GitHub repository](https://github.com/kwaldenphd/nd-stadium-concourse)
-
-<blockquote>"CollectionBuilder is a set of flexible, static web templates for creating digital collection websites. These templates are driven by metadata and powered by modern static web technology. Using three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—CollectionBuilder helps users to build and customize sustainable, digital collections and exhibits for free, learning valuable development practices in the process."</blockquote>
-
-Metadata is at the core of how a digital archive organizes and provides access to primary source material. Our [`collection-builder-metadata`](https://docs.google.com/spreadsheets/d/1fxH_fkXg5P2CFWSkoJ-pCM5n20mwuObXwErK9ZUtGUo/edit#gid=1291787307) Google Sheet already has game program metadata formatted for the platform we'll be exploring.
-
-But, we need to add in our game annotations and the tags we built out for each game. Paste your game annotations in the `Description` column. Tags can go in the `subject` column.
-- Prof. Walden (or future Dr. Swisher) will update the site's metadata so the site will reflect these changes!
-
-### Exhibit Discussion/Reflection Questions
-
-Spend some time as a group (and/or on your own) discussing and reflecting on....
-
-- What the digital archive and exhibit format facilitates in terms of connecting and contextualizing information about the game programs
-  * Things the template Prof. Walden set up emphasizes about these games, seasons & eras
-  * Other things that might be possible in the platform
-
-- Affordances or drawbacks of the platform; Thoughts on the various ways the platform organizes the game programs
   * Things that worked about this approach
   * Alternate approaches the group might want to explore
 
