@@ -8,7 +8,6 @@ Sections of the "StoryMaps" subsection (in "Workflows") were edited and develope
 # Table of Contents
 
 - [Overview](#overview)
-  * [Exploring Other Projects](#exploring-other-projects)
   * [Background](#background)
   * [Metadata](#metadata)
 - [Part I: Annotations](#part-i-annotations)
@@ -27,20 +26,6 @@ We'll start by thinking about how we add to item-level metadata to more fully co
 Then we'll think about different tools or methods that let us connect this contextual information to primary sources, and connect primary sources with each other, in the service of a larger historical narrative or argument.
 
 In addition to the different platforms we'll explore in this lab, our work will be the foundation for a [public digital exhibit through the Hesburgh Libraries](https://digital-exhibits.library.nd.edu/). 
-
-## Exploring other projects 
-
-Explore...
-- [One of the Colored Conventions Projects exhibits](https://coloredconventions.org/exhibits/) (many to choose from!)
-- [One of the place-based walking tour projects](https://curatescape.org/projects/)
-- [One of the interactive digital stories built using ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/albums/digital-humanities)
-
-As you explore, consider…
-- What types of sources it uses, and how it uses those sources (interactive maps/visualizations, text, immersive media, etc)
-- Choices the authors/creators made around design and presentation, and how that shapes the user experience 
-  * To put that another way, what are some of your takeaways from engaging with the project? What aspects of the project stand out to you (and how/why)?
-- Ideas that spark for how aspects of what this project is doing could be useful for telling a story about ND football
-  * Or, aspects of the project design/composition that might connect to some of the primary source materials we’ve been exploring 
 
 ## Background
 
@@ -94,10 +79,7 @@ Folks can work primarily individually on the individual game program annotations
 For the game programs that have been digitized, a good first step is to dig into the game program itself.
 
 Then fold in other University Archives sources
-- [Digest of University Archives digital collections](https://github.com/kwaldenphd/football-exhibits/blob/main/archive-resources.md) 
-  * [Scholastic student magazine, 1867-2011](https://archives.nd.edu/Scholastic/)
-  * [Scholastic football season reviews, 1901-2010](https://archives.nd.edu/Football/)
-  * [Observer student newspaper, 1966-present](https://archives.nd.edu/Observer/)
+- [nd-digital-archives](https://docs.google.com/spreadsheets/d/1-28D_d5hqg3Mr1xAAuGStcZB9fhVV7re-RoXTWC4kgU/edit?usp=drive_link) (digest of additional ND digital archives resources)
 
 Folks could do much deeper dives on particular games, seasons, or eras. For now, try to ground your annotations in at least one primary source (beyond the game program itself).
 - Add a PDF or image file of the source(s) you're using to the relevant subfolder in the [`concourse-programs` Google Drive folder](https://drive.google.com/drive/folders/1-pKjILRWe-HP8FdVvsiUHpq-dFPZDt0G).
@@ -296,13 +278,33 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 - Other things folks in the group want to explore in relation to these game programs (or digital formats for contextualizing and connecting them). 
   * Any particular notes or comments on this platform
 
+# 11/2 University Archives visit
+
+On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
+- [Link to 11/2 slide deck](https://docs.google.com/presentation/d/1dJyOXNoIjNRgo0TlClzbPHgs2_5PoNyw5SQ0vKG_s6A/edit#slide=id.g2261178f27b_0_0)
+- [Link to Archives materials list]()
+
 # Part III: Horizons
 
 Now that we've seen a few different examples, let’s start to think about how we might connect or organize a body of primary sources in some kind of digital space.
 
 Folks are welcome to work on this in groups if there's an idea the group is organizing around. But folks are also welcome to move between collaborative and individual work here.
 
-### Step #1: Reflection
+## Step #1: Exploring other projects 
+
+Explore...
+- [One of the Colored Conventions Projects exhibits](https://coloredconventions.org/exhibits/) (many to choose from!)
+- [One of the place-based walking tour projects](https://curatescape.org/projects/)
+- [One of the interactive digital stories built using ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/albums/digital-humanities)
+
+As you explore, consider…
+- What types of sources it uses, and how it uses those sources (interactive maps/visualizations, text, immersive media, etc)
+- Choices the authors/creators made around design and presentation, and how that shapes the user experience 
+  * To put that another way, what are some of your takeaways from engaging with the project? What aspects of the project stand out to you (and how/why)?
+- Ideas that spark for how aspects of what this project is doing could be useful for telling a story about ND football
+  * Or, aspects of the project design/composition that might connect to some of the primary source materials we’ve been exploring 
+
+## Step #2: Reflection
 
 First, spend some time in your group (and on your own), reflecting on...
 
@@ -349,7 +351,7 @@ For these options, some of the things that you might need to build out along the
 - Design/visual content
 - Text
 
-## Step #2: Brainstorming
+## Step #3: Brainstorming
 
 In previous labs, we used this "Now it's your turn" section at the end of the lab to develop a small-scale research proposal connected to the tools and methods covered in the lab. That's one way to approach the last section of this lab. But we can also use this time and space to start thinking more expansively about what folks might be interested in pursuing or building via the final project.
 - [Link to the section of the syllabus that talks more about the final project](https://docs.google.com/document/d/1aYKyLlMB_O9uARg9NXDF32RU5DWbA1oj2b3pbciMA4U/edit#heading=h.3bze9rog87lt)
@@ -370,12 +372,6 @@ Some prompts that can structure your brainstorming...
 - Other questions you have or comments on ideas, goals, and next steps.
 
 At this point, your responses may be preliminary in draft form. That's fine! We'll have space and time next week (along with targeted class work) to further hone these ideas.
-
-## Step #3: 11/2 University Archives visit
-
-On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
-- [Link to 11/2 slide deck](https://docs.google.com/presentation/d/1dJyOXNoIjNRgo0TlClzbPHgs2_5PoNyw5SQ0vKG_s6A/edit#slide=id.g2261178f27b_0_0)
-- [Link to Archives materials list]()
 
 ## Step #4: Flesh out proposal, start to map onto possible final project horizons
 
