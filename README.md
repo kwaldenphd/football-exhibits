@@ -282,7 +282,7 @@ Spend some time as a group (and/or on your own) discussing and reflecting on....
 
 On Thursday 11/2, we'll spend another class period in the University Archives, this time looking at materials and objects that might relate or connect to the game programs we've been working with. 
 - [Link to 11/2 slide deck](https://docs.google.com/presentation/d/1dJyOXNoIjNRgo0TlClzbPHgs2_5PoNyw5SQ0vKG_s6A/edit#slide=id.g2261178f27b_0_0)
-- [Link to Archives materials list]()
+- [Link to Archives materials list](https://docs.google.com/document/d/1x_qqPheWGHDf4ZE02_d3ZEgFUvQ13j2mwyDFp-33s2g/edit?usp=sharing)
 
 # Part III: Horizons
 
